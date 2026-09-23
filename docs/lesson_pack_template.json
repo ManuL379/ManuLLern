@@ -1,0 +1,8 @@
+{
+  "formatVersion": 1,
+  "packageId": "manullern.example.pack",
+  "packageVersion": "1.0.0",
+  "title": "Пример пакета",
+  "course": "Deutsch 5000",
+  "lessons": []
+}
