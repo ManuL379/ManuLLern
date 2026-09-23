@@ -1,9 +1,11 @@
-const CACHE = "manullern-core-v0.1.1";
+const CACHE = "manullern-core-v0.1.2";
 const CORE = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./voice.js",
+  "./tts.js",
   "./manifest.webmanifest",
   "./assets/icon-192.png",
   "./assets/icon-512.png",
@@ -25,7 +27,7 @@ self.addEventListener("activate", event => {
 self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
   const url = new URL(event.request.url);
-  if (url.origin !== self.location.origin) return; // never intercept third-party requests
+  if (url.origin !== self.location.origin) return;
 
   event.respondWith((async () => {
     const cached = await caches.match(event.request);
@@ -38,7 +40,6 @@ self.addEventListener("fetch", event => {
       }
       return resp;
     } catch (err) {
-      // Only page navigations fall back to the app shell. JSON/images never receive HTML by mistake.
       if (event.request.mode === "navigate") {
         return (await caches.match("./index.html")) || Response.error();
       }

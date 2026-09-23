@@ -6,7 +6,7 @@
   <meta name="referrer" content="no-referrer">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'; manifest-src 'self'; worker-src 'self'">
   <meta name="theme-color" content="#0e1116">
-  <meta name="description" content="ManuLLern — бесплатный приватный помощник для изучения немецкого. Офлайн, без аккаунта и без отправки учебных данных.">
+  <meta name="description" content="ManuLLern — бесплатный приватный помощник для изучения немецкого. Офлайн, без аккаунта и без отправки учебных данных самим приложением.">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icon-192.png">
   <link rel="stylesheet" href="styles.css">
@@ -30,13 +30,26 @@
       <div>
         <h1>ManuLLern</h1>
         <p class="lead">Немецкий без лишнего: <strong>слушай → читай → понимай → отвечай.</strong></p>
+        <p class="discipline"><strong>Никакой магии. 10 слов. 1 урок. Каждый день. Остальное — дисциплина.</strong></p>
         <p class="muted">Бесплатно · приватно · офлайн после установки</p>
       </div>
     </section>
 
     <section class="panel compact">
-      <p><strong>RU:</strong> бесплатный и приватный помощник для немецкого: тексты, аудирование и диалоги. Без аккаунта и без отправки учебных данных.</p>
-      <p><strong>DE:</strong> kostenloser und datenschutzfreundlicher Begleiter zum Deutschlernen: Texte, Hörverstehen und Dialoge. Ohne Konto und ohne Übertragung deiner Lerndaten.</p>
+      <p><strong>RU:</strong> бесплатный и приватный помощник для немецкого: тексты, аудирование и диалоги. Без аккаунта и без отправки учебных данных самим приложением.</p>
+      <p><strong>DE:</strong> kostenloser und datenschutzfreundlicher Begleiter zum Deutschlernen: Texte, Hörverstehen und Dialoge. Ohne Konto; die App selbst sendet keine Lerndaten.</p>
+    </section>
+
+    <section class="panel compact">
+      <h2>Как пользоваться</h2>
+      <ul class="clean-list">
+        <li><strong>Сначала Anki:</strong> выучи 10 слов, затем открой соответствующий урок.</li>
+        <li><strong>🔊</strong> — прослушать немецкий текст или реплику.</li>
+        <li><strong>Нажми на немецкое предложение</strong> — увидишь перевод; нажми ещё раз — вернёшь немецкий.</li>
+        <li><strong>🎤 Ответить голосом</strong> — нажми и говори по-немецки; распознанный текст появится в поле, затем нажми «Проверить».</li>
+        <li><strong>«Урок пройден»</strong> сохраняет прогресс локально на этом устройстве.</li>
+      </ul>
+      <p class="muted small">Голосовой ввод может использовать сетевую службу браузера/ОС; перед первым использованием ManuLLern предупредит об этом.</p>
     </section>
 
     <section class="section-head">
@@ -72,10 +85,11 @@
     <section class="panel">
       <h2>Приватность</h2>
       <ul class="clean-list">
-        <li>Ответы не отправляются на сервер.</li>
-        <li>Текст твоих ответов вообще не сохраняется после закрытия/сброса урока.</li>
+        <li>Обычные текстовые ответы приложение не отправляет на сервер.</li>
+        <li>Текст твоих ответов не сохраняется после закрытия/сброса урока.</li>
         <li>Локально хранится только прогресс: какие уроки проходил и сколько раз.</li>
-        <li>Озвучивание использует TTS самого устройства; для максимальной приватности скачай немецкий офлайн-голос.</li>
+        <li>Озвучивание использует TTS самого устройства.</li>
+        <li>Голосовой ввод запускается только по нажатию. Распознавание выполняет браузер/ОС и может использовать внешний сетевой сервис; ManuLLern голосовую запись не хранит.</li>
       </ul>
       <a class="text-link" href="docs/PRIVACY.md">Техническое описание приватности</a>
     </section>
@@ -140,7 +154,7 @@
     <section class="section-head">
       <div>
         <h2>3. Понимание</h2>
-        <p class="muted">Ответ печатай сам. Можно использовать микрофон клавиатуры Android.</p>
+        <p class="muted">Ответ можно напечатать или нажать «🎤 Ответить голосом» и говорить по-немецки.</p>
       </div>
     </section>
     <div id="questionBlock"></div>
@@ -163,9 +177,12 @@
       <button id="completeLessonBtn" class="primary wide">Урок пройден</button>
       <button id="restartLessonBtn" class="wide">↻ Пройти ещё раз</button>
       <p id="repeatInfo" class="muted small center"></p>
+      <p class="center"><strong>Du bist heute ein bisschen besser als gestern.</strong></p>
     </section>
   </template>
 
   <script src="app.js"></script>
+  <script src="tts.js"></script>
+  <script src="voice.js"></script>
 </body>
 </html>
