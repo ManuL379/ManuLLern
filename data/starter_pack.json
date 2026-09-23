@@ -1,0 +1,1600 @@
+{
+  "formatVersion": 1,
+  "packageId": "manullern.starter.001",
+  "packageVersion": "0.1.0",
+  "title": "Стартовый пакет — уроки 1–10",
+  "course": "Deutsch 5000",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "В Берлине",
+      "anki": [
+        1,
+        10
+      ],
+      "micro": {
+        "pattern": "Ich bin … / Ich habe …",
+        "note": "Две простые заготовки: «Я нахожусь…» и «У меня есть…».",
+        "examples": [
+          [
+            "Ich bin in Berlin.",
+            "Я в Берлине."
+          ],
+          [
+            "Ich habe einen Termin.",
+            "У меня есть запись / встреча."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Ich bin in Berlin.",
+          "Я в Берлине."
+        ],
+        [
+          "Ich habe einen Termin.",
+          "У меня есть запись / встреча."
+        ],
+        [
+          "Der Termin ist morgen.",
+          "Встреча завтра."
+        ],
+        [
+          "Sie ist auch in Berlin.",
+          "Она тоже в Берлине."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wo bist du?",
+          "hint": "Начни: Ich bin …",
+          "accepted": [
+            "Ich bin in Berlin.",
+            "In Berlin bin ich.",
+            "Ich bin gerade in Berlin."
+          ]
+        },
+        {
+          "q": "Wann ist der Termin?",
+          "hint": "Используй: morgen",
+          "accepted": [
+            "Der Termin ist morgen.",
+            "Morgen ist der Termin.",
+            "Er ist morgen."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Bist du in Berlin?",
+          "Ты в Берлине?"
+        ],
+        [
+          "B",
+          "Ja, ich bin in Berlin.",
+          "Да, я в Берлине."
+        ],
+        [
+          "A",
+          "Hast du einen Termin?",
+          "У тебя есть запись / встреча?"
+        ],
+        [
+          "B",
+          "Ja, der Termin ist morgen.",
+          "Да, встреча завтра."
+        ]
+      ],
+      "phrases": [
+        [
+          "Ich bin in Berlin.",
+          "Я в Берлине."
+        ],
+        [
+          "Ich habe einen Termin.",
+          "У меня есть запись / встреча."
+        ],
+        [
+          "Der Termin ist morgen.",
+          "Встреча завтра."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 1,
+          "de": "der",
+          "ru": "определённый артикль; тот; который"
+        },
+        {
+          "rank": 2,
+          "de": "und",
+          "ru": "и"
+        },
+        {
+          "rank": 3,
+          "de": "in",
+          "ru": "в"
+        },
+        {
+          "rank": 4,
+          "de": "sein",
+          "ru": "быть"
+        },
+        {
+          "rank": 5,
+          "de": "ein",
+          "ru": "неопределённый артикль; один"
+        },
+        {
+          "rank": 6,
+          "de": "haben",
+          "ru": "иметь"
+        },
+        {
+          "rank": 7,
+          "de": "sie",
+          "ru": "она; они; Вы"
+        },
+        {
+          "rank": 8,
+          "de": "werden",
+          "ru": "становиться; быть; будущее время"
+        },
+        {
+          "rank": 9,
+          "de": "von",
+          "ru": "от; из; о"
+        },
+        {
+          "rank": 10,
+          "de": "ich",
+          "ru": "я"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Подарок",
+      "anki": [
+        11,
+        20
+      ],
+      "micro": {
+        "pattern": "Das ist für … / Er ist nicht …",
+        "note": "Коротко говорим, для кого что-то, и отрицаем через nicht.",
+        "examples": [
+          [
+            "Das ist für sie.",
+            "Это для неё."
+          ],
+          [
+            "Er ist nicht zu Hause.",
+            "Его нет дома."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Er ist nicht zu Hause.",
+          "Его нет дома."
+        ],
+        [
+          "Es ist kalt.",
+          "Холодно."
+        ],
+        [
+          "Das Geschenk ist für sie.",
+          "Подарок для неё."
+        ],
+        [
+          "Er freut sich.",
+          "Он радуется."
+        ],
+        [
+          "Ich denke an sie.",
+          "Я думаю о ней."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Ist er zu Hause?",
+          "hint": "Начни: Nein, …",
+          "accepted": [
+            "Nein, er ist nicht zu Hause.",
+            "Er ist nicht zu Hause.",
+            "Nein, er ist gerade nicht zu Hause."
+          ]
+        },
+        {
+          "q": "Für wen ist das Geschenk?",
+          "hint": "Используй: für sie",
+          "accepted": [
+            "Das Geschenk ist für sie.",
+            "Es ist für sie.",
+            "Für sie."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Ist er zu Hause?",
+          "Он дома?"
+        ],
+        [
+          "B",
+          "Nein, er ist nicht zu Hause.",
+          "Нет, его нет дома."
+        ],
+        [
+          "A",
+          "Ist das Geschenk für sie?",
+          "Подарок для неё?"
+        ],
+        [
+          "B",
+          "Ja, es ist für sie.",
+          "Да, для неё."
+        ]
+      ],
+      "phrases": [
+        [
+          "Er ist nicht zu Hause.",
+          "Его нет дома."
+        ],
+        [
+          "Das ist für sie.",
+          "Это для неё."
+        ],
+        [
+          "Ich denke an sie.",
+          "Я думаю о ней."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 11,
+          "de": "nicht",
+          "ru": "не"
+        },
+        {
+          "rank": 12,
+          "de": "es",
+          "ru": "оно; это"
+        },
+        {
+          "rank": 13,
+          "de": "mit",
+          "ru": "с"
+        },
+        {
+          "rank": 14,
+          "de": "sich",
+          "ru": "себя"
+        },
+        {
+          "rank": 15,
+          "de": "er",
+          "ru": "он"
+        },
+        {
+          "rank": 16,
+          "de": "auf",
+          "ru": "на; по; к"
+        },
+        {
+          "rank": 17,
+          "de": "für",
+          "ru": "для; за"
+        },
+        {
+          "rank": 18,
+          "de": "auch",
+          "ru": "также; тоже"
+        },
+        {
+          "rank": 19,
+          "de": "an",
+          "ru": "на; у; к"
+        },
+        {
+          "rank": 20,
+          "de": "dass",
+          "ru": "что"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "У врача",
+      "anki": [
+        21,
+        30
+      ],
+      "micro": {
+        "pattern": "Kannst du …? / Wir sind bei …",
+        "note": "Kannst du …? — простой способ спросить «Ты можешь…?»",
+        "examples": [
+          [
+            "Kannst du mir helfen?",
+            "Ты можешь мне помочь?"
+          ],
+          [
+            "Wir sind beim Arzt.",
+            "Мы у врача."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Wir sind beim Arzt.",
+          "Мы у врача."
+        ],
+        [
+          "Wie geht es dir?",
+          "Как ты себя чувствуешь?"
+        ],
+        [
+          "Ich kann warten.",
+          "Я могу подождать."
+        ],
+        [
+          "Dieses Zimmer ist klein, aber ruhig.",
+          "Эта комната маленькая, но тихая."
+        ],
+        [
+          "Wir gehen gleich zum Arzt.",
+          "Мы сейчас пойдём к врачу."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wo seid ihr?",
+          "hint": "Ответ: Wir sind …",
+          "accepted": [
+            "Wir sind beim Arzt.",
+            "Beim Arzt.",
+            "Wir sind gerade beim Arzt."
+          ]
+        },
+        {
+          "q": "Kannst du warten?",
+          "hint": "Начни: Ja, …",
+          "accepted": [
+            "Ja, ich kann warten.",
+            "Ich kann warten.",
+            "Ja, ich kann noch warten."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Wie geht es dir?",
+          "Как ты себя чувствуешь?"
+        ],
+        [
+          "B",
+          "Gut, danke.",
+          "Хорошо, спасибо."
+        ],
+        [
+          "A",
+          "Kannst du noch warten?",
+          "Ты можешь ещё подождать?"
+        ],
+        [
+          "B",
+          "Ja, ich kann warten.",
+          "Да, могу."
+        ]
+      ],
+      "phrases": [
+        [
+          "Wie geht es dir?",
+          "Как ты?"
+        ],
+        [
+          "Kannst du mir helfen?",
+          "Ты можешь мне помочь?"
+        ],
+        [
+          "Wir sind beim Arzt.",
+          "Мы у врача."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 21,
+          "de": "zu",
+          "ru": "к; слишком; частица инфинитива"
+        },
+        {
+          "rank": 22,
+          "de": "als",
+          "ru": "как; чем; когда"
+        },
+        {
+          "rank": 23,
+          "de": "können",
+          "ru": "мочь; уметь"
+        },
+        {
+          "rank": 24,
+          "de": "dies",
+          "ru": "этот"
+        },
+        {
+          "rank": 25,
+          "de": "wie",
+          "ru": "как"
+        },
+        {
+          "rank": 26,
+          "de": "wir",
+          "ru": "мы"
+        },
+        {
+          "rank": 27,
+          "de": "ihr",
+          "ru": "вы; её; их"
+        },
+        {
+          "rank": 28,
+          "de": "so",
+          "ru": "так; настолько"
+        },
+        {
+          "rank": 29,
+          "de": "bei",
+          "ru": "у; при; возле"
+        },
+        {
+          "rank": 30,
+          "de": "aber",
+          "ru": "но; однако"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "В кафе",
+      "anki": [
+        31,
+        40
+      ],
+      "micro": {
+        "pattern": "Was …? / Dann …",
+        "note": "Сначала спрашиваем Was …?, затем продолжаем через Dann — «потом».",
+        "examples": [
+          [
+            "Was möchtest du?",
+            "Что ты хочешь?"
+          ],
+          [
+            "Dann gehe ich nach Hause.",
+            "Потом я иду домой."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Was möchtest du: Kaffee oder Tee?",
+          "Что ты хочешь: кофе или чай?"
+        ],
+        [
+          "Ich nehme nur Kaffee.",
+          "Я возьму только кофе."
+        ],
+        [
+          "Man kann hier ruhig sitzen.",
+          "Здесь можно спокойно посидеть."
+        ],
+        [
+          "Der Kaffee ist aus Italien.",
+          "Кофе из Италии."
+        ],
+        [
+          "Dann gehe ich nach Hause.",
+          "Потом я иду домой."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Was nimmst du?",
+          "hint": "Начни: Ich nehme …",
+          "accepted": [
+            "Ich nehme Kaffee.",
+            "Ich nehme nur Kaffee.",
+            "Nur Kaffee."
+          ]
+        },
+        {
+          "q": "Was machst du dann?",
+          "hint": "Используй: nach Hause",
+          "accepted": [
+            "Dann gehe ich nach Hause.",
+            "Ich gehe dann nach Hause.",
+            "Ich gehe nach Hause."
+          ]
+        },
+        {
+          "q": "Woher ist der Kaffee?",
+          "hint": "Используй: aus Italien",
+          "accepted": [
+            "Der Kaffee ist aus Italien.",
+            "Er ist aus Italien.",
+            "Aus Italien."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Kaffee oder Tee?",
+          "Кофе или чай?"
+        ],
+        [
+          "B",
+          "Nur Kaffee, bitte.",
+          "Только кофе, пожалуйста."
+        ],
+        [
+          "A",
+          "Bleibst du noch?",
+          "Ты ещё останешься?"
+        ],
+        [
+          "B",
+          "Nein, dann gehe ich nach Hause.",
+          "Нет, потом я иду домой."
+        ]
+      ],
+      "phrases": [
+        [
+          "Kaffee oder Tee?",
+          "Кофе или чай?"
+        ],
+        [
+          "Nur Kaffee, bitte.",
+          "Только кофе, пожалуйста."
+        ],
+        [
+          "Dann gehe ich nach Hause.",
+          "Потом я иду домой."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 31,
+          "de": "man",
+          "ru": "кто-то; люди; безличное «можно»"
+        },
+        {
+          "rank": 32,
+          "de": "noch",
+          "ru": "ещё"
+        },
+        {
+          "rank": 33,
+          "de": "nach",
+          "ru": "после; к; по"
+        },
+        {
+          "rank": 34,
+          "de": "oder",
+          "ru": "или"
+        },
+        {
+          "rank": 35,
+          "de": "all",
+          "ru": "весь; все"
+        },
+        {
+          "rank": 36,
+          "de": "aus",
+          "ru": "из"
+        },
+        {
+          "rank": 37,
+          "de": "was",
+          "ru": "что"
+        },
+        {
+          "rank": 38,
+          "de": "nur",
+          "ru": "только"
+        },
+        {
+          "rank": 39,
+          "de": "sagen",
+          "ru": "говорить; сказать"
+        },
+        {
+          "rank": 40,
+          "de": "dann",
+          "ru": "тогда; затем"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Встреча у дома",
+      "anki": [
+        41,
+        50
+      ],
+      "micro": {
+        "pattern": "Ich muss … / Wenn …, dann …",
+        "note": "Ich muss … — «мне нужно…». Если используем wenn, вторая часть может начинаться с dann.",
+        "examples": [
+          [
+            "Ich muss jetzt los.",
+            "Мне нужно идти."
+          ],
+          [
+            "Wenn du Zeit hast, dann ruf mich an.",
+            "Если у тебя будет время, позвони мне."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Wir treffen uns um acht vor dem Haus.",
+          "Мы встречаемся в восемь перед домом."
+        ],
+        [
+          "Wenn du keine Zeit hast, sag mir bitte Bescheid.",
+          "Если у тебя нет времени, пожалуйста, сообщи мне."
+        ],
+        [
+          "Ich muss vorher noch arbeiten.",
+          "До этого мне ещё нужно поработать."
+        ],
+        [
+          "Mein Pass ist da.",
+          "Мой паспорт здесь."
+        ],
+        [
+          "Wir sprechen kurz über den Termin.",
+          "Мы коротко поговорим о встрече."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wann trefft ihr euch?",
+          "hint": "Используй: um acht",
+          "accepted": [
+            "Wir treffen uns um acht.",
+            "Um acht.",
+            "Wir treffen uns um acht vor dem Haus."
+          ]
+        },
+        {
+          "q": "Wo trefft ihr euch?",
+          "hint": "Используй: vor dem Haus",
+          "accepted": [
+            "Wir treffen uns vor dem Haus.",
+            "Vor dem Haus.",
+            "Wir treffen uns um acht vor dem Haus."
+          ]
+        },
+        {
+          "q": "Was musst du vorher machen?",
+          "hint": "Начни: Ich muss …",
+          "accepted": [
+            "Ich muss vorher noch arbeiten.",
+            "Ich muss arbeiten.",
+            "Vorher muss ich noch arbeiten."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Treffen wir uns um acht?",
+          "Встретимся в восемь?"
+        ],
+        [
+          "B",
+          "Ja, vor dem Haus.",
+          "Да, перед домом."
+        ],
+        [
+          "A",
+          "Und wenn du keine Zeit hast?",
+          "А если у тебя не будет времени?"
+        ],
+        [
+          "B",
+          "Dann sage ich dir Bescheid.",
+          "Тогда я тебе сообщу."
+        ]
+      ],
+      "phrases": [
+        [
+          "Ich muss jetzt los.",
+          "Мне нужно идти."
+        ],
+        [
+          "Wir treffen uns um acht.",
+          "Встречаемся в восемь."
+        ],
+        [
+          "Sag mir bitte Bescheid.",
+          "Пожалуйста, дай мне знать."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 41,
+          "de": "wenn",
+          "ru": "если; когда"
+        },
+        {
+          "rank": 42,
+          "de": "müssen",
+          "ru": "быть должным; нужно"
+        },
+        {
+          "rank": 43,
+          "de": "um",
+          "ru": "вокруг; в; чтобы"
+        },
+        {
+          "rank": 44,
+          "de": "ja",
+          "ru": "да; ведь"
+        },
+        {
+          "rank": 45,
+          "de": "kein",
+          "ru": "никакой; не"
+        },
+        {
+          "rank": 46,
+          "de": "über",
+          "ru": "над; через; о"
+        },
+        {
+          "rank": 47,
+          "de": "da",
+          "ru": "там; поскольку"
+        },
+        {
+          "rank": 48,
+          "de": "geben",
+          "ru": "давать"
+        },
+        {
+          "rank": 49,
+          "de": "vor",
+          "ru": "перед; до; назад"
+        },
+        {
+          "rank": 50,
+          "de": "mein",
+          "ru": "мой"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Планы на вечер",
+      "anki": [
+        51,
+        60
+      ],
+      "micro": {
+        "pattern": "Ich will … / Was soll ich …?",
+        "note": "Ich will … — «я хочу…». Was soll ich …? — «что мне следует…?»",
+        "examples": [
+          [
+            "Ich will das machen.",
+            "Я хочу это сделать."
+          ],
+          [
+            "Was soll ich machen?",
+            "Что мне делать?"
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Du hast heute viel zu tun.",
+          "У тебя сегодня много дел."
+        ],
+        [
+          "Ich will am Abend nicht mehr arbeiten.",
+          "Вечером я больше не хочу работать."
+        ],
+        [
+          "Was sollen wir machen?",
+          "Что нам делать?"
+        ],
+        [
+          "Wir können das andere Café nehmen.",
+          "Мы можем выбрать другое кафе."
+        ],
+        [
+          "Dieses Jahr will ich mehr Deutsch lernen.",
+          "В этом году я хочу больше учить немецкий."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Willst du am Abend arbeiten?",
+          "hint": "Начни: Nein, …",
+          "accepted": [
+            "Nein, ich will am Abend nicht mehr arbeiten.",
+            "Ich will am Abend nicht mehr arbeiten.",
+            "Nein, am Abend will ich nicht mehr arbeiten."
+          ]
+        },
+        {
+          "q": "Welches Café könnt ihr nehmen?",
+          "hint": "Используй: das andere Café",
+          "accepted": [
+            "Wir können das andere Café nehmen.",
+            "Das andere Café.",
+            "Wir nehmen das andere Café."
+          ]
+        },
+        {
+          "q": "Was willst du dieses Jahr mehr lernen?",
+          "hint": "Используй: Deutsch lernen",
+          "accepted": [
+            "Ich will mehr Deutsch lernen.",
+            "Dieses Jahr will ich mehr Deutsch lernen.",
+            "Ich möchte mehr Deutsch lernen."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Was machst du heute Abend?",
+          "Что ты делаешь сегодня вечером?"
+        ],
+        [
+          "B",
+          "Ich will nicht mehr arbeiten.",
+          "Я больше не хочу работать."
+        ],
+        [
+          "A",
+          "Sollen wir ins Café gehen?",
+          "Пойдём в кафе?"
+        ],
+        [
+          "B",
+          "Ja, wir können das andere Café nehmen.",
+          "Да, можем выбрать другое кафе."
+        ]
+      ],
+      "phrases": [
+        [
+          "Was machst du heute Abend?",
+          "Что ты делаешь сегодня вечером?"
+        ],
+        [
+          "Ich will das machen.",
+          "Я хочу это сделать."
+        ],
+        [
+          "Was soll ich machen?",
+          "Что мне делать?"
+        ]
+      ],
+      "words": [
+        {
+          "rank": 51,
+          "de": "mehr",
+          "ru": "больше"
+        },
+        {
+          "rank": 52,
+          "de": "das Jahr",
+          "ru": "год"
+        },
+        {
+          "rank": 53,
+          "de": "du",
+          "ru": "ты"
+        },
+        {
+          "rank": 54,
+          "de": "durch",
+          "ru": "через; сквозь"
+        },
+        {
+          "rank": 55,
+          "de": "viel",
+          "ru": "много"
+        },
+        {
+          "rank": 56,
+          "de": "wollen",
+          "ru": "хотеть"
+        },
+        {
+          "rank": 57,
+          "de": "machen",
+          "ru": "делать"
+        },
+        {
+          "rank": 58,
+          "de": "andere",
+          "ru": "другой"
+        },
+        {
+          "rank": 59,
+          "de": "sollen",
+          "ru": "следует; должен"
+        },
+        {
+          "rank": 60,
+          "de": "schon",
+          "ru": "уже"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "В парке",
+      "anki": [
+        61,
+        70
+      ],
+      "micro": {
+        "pattern": "Ich komme … / Wir gehen …",
+        "note": "Две полезные модели движения: kommen — приходить, gehen — идти.",
+        "examples": [
+          [
+            "Ich komme gleich.",
+            "Я скоро приду."
+          ],
+          [
+            "Wir gehen durch den Park.",
+            "Мы идём через парк."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Ich komme gleich.",
+          "Я сейчас приду."
+        ],
+        [
+          "Warte bitte hier auf mich.",
+          "Пожалуйста, подожди меня здесь."
+        ],
+        [
+          "Dann gehen wir durch den Park.",
+          "Потом мы идём через парк."
+        ],
+        [
+          "Der Park ist groß.",
+          "Парк большой."
+        ],
+        [
+          "Ich brauche nur zwei Minuten.",
+          "Мне нужно всего две минуты."
+        ],
+        [
+          "Also, bis gleich.",
+          "Итак, до скорого."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wo sollst du warten?",
+          "hint": "Используй: hier",
+          "accepted": [
+            "Ich soll hier warten.",
+            "Hier.",
+            "Ich soll hier auf dich warten."
+          ]
+        },
+        {
+          "q": "Wo geht ihr?",
+          "hint": "Используй: durch den Park",
+          "accepted": [
+            "Wir gehen durch den Park.",
+            "Durch den Park.",
+            "Wir gehen dann durch den Park."
+          ]
+        },
+        {
+          "q": "Wie viele Minuten brauchst du?",
+          "hint": "Используй: zwei",
+          "accepted": [
+            "Ich brauche zwei Minuten.",
+            "Nur zwei Minuten.",
+            "Zwei Minuten."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Wo bist du?",
+          "Где ты?"
+        ],
+        [
+          "B",
+          "Ich bin hier. Ich komme gleich.",
+          "Я здесь. Сейчас подойду."
+        ],
+        [
+          "A",
+          "Soll ich warten?",
+          "Мне подождать?"
+        ],
+        [
+          "B",
+          "Ja, bitte. Nur zwei Minuten.",
+          "Да, пожалуйста. Всего две минуты."
+        ]
+      ],
+      "phrases": [
+        [
+          "Ich komme gleich.",
+          "Я сейчас приду."
+        ],
+        [
+          "Warte bitte hier.",
+          "Подожди здесь, пожалуйста."
+        ],
+        [
+          "Nur zwei Minuten.",
+          "Всего две минуты."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 61,
+          "de": "kommen",
+          "ru": "приходить; приезжать"
+        },
+        {
+          "rank": 62,
+          "de": "mir",
+          "ru": "мне"
+        },
+        {
+          "rank": 63,
+          "de": "immer",
+          "ru": "всегда"
+        },
+        {
+          "rank": 64,
+          "de": "mich",
+          "ru": "меня; себя"
+        },
+        {
+          "rank": 65,
+          "de": "gehen",
+          "ru": "идти; ходить"
+        },
+        {
+          "rank": 66,
+          "de": "groß",
+          "ru": "большой"
+        },
+        {
+          "rank": 67,
+          "de": "hier",
+          "ru": "здесь"
+        },
+        {
+          "rank": 68,
+          "de": "ganz",
+          "ru": "целый; весь"
+        },
+        {
+          "rank": 69,
+          "de": "zwei",
+          "ru": "два"
+        },
+        {
+          "rank": 70,
+          "de": "also",
+          "ru": "итак; значит"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "До завтра",
+      "anki": [
+        71,
+        80
+      ],
+      "micro": {
+        "pattern": "Wir sehen uns … / Ich weiß …",
+        "note": "Wir sehen uns … — «увидимся…». Ich weiß … — «я знаю…».",
+        "examples": [
+          [
+            "Wir sehen uns morgen.",
+            "Увидимся завтра."
+          ],
+          [
+            "Ich weiß es nicht.",
+            "Я не знаю."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Jetzt habe ich Zeit.",
+          "Сейчас у меня есть время."
+        ],
+        [
+          "Wir sehen uns morgen wieder.",
+          "Завтра снова увидимся."
+        ],
+        [
+          "Einer von uns kommt etwas später.",
+          "Один из нас придёт немного позже."
+        ],
+        [
+          "Das ist doch gut.",
+          "Это же хорошо."
+        ],
+        [
+          "Ich weiß es noch nicht genau.",
+          "Я пока точно не знаю."
+        ],
+        [
+          "Bis morgen!",
+          "До завтра!"
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wann seht ihr euch wieder?",
+          "hint": "Используй: morgen",
+          "accepted": [
+            "Wir sehen uns morgen wieder.",
+            "Morgen.",
+            "Wir sehen uns morgen."
+          ]
+        },
+        {
+          "q": "Kommt jeder pünktlich?",
+          "hint": "Один придёт позже.",
+          "accepted": [
+            "Nein, einer von uns kommt später.",
+            "Einer von uns kommt später.",
+            "Nein, nicht jeder kommt pünktlich."
+          ]
+        },
+        {
+          "q": "Weißt du es genau?",
+          "hint": "Начни: Nein, …",
+          "accepted": [
+            "Nein, ich weiß es noch nicht genau.",
+            "Ich weiß es noch nicht genau.",
+            "Nein, noch nicht."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Sehen wir uns morgen?",
+          "Увидимся завтра?"
+        ],
+        [
+          "B",
+          "Ja, bis morgen.",
+          "Да, до завтра."
+        ],
+        [
+          "A",
+          "Kommst du pünktlich?",
+          "Ты придёшь вовремя?"
+        ],
+        [
+          "B",
+          "Ich weiß es noch nicht genau.",
+          "Я пока точно не знаю."
+        ]
+      ],
+      "phrases": [
+        [
+          "Jetzt habe ich Zeit.",
+          "Сейчас у меня есть время."
+        ],
+        [
+          "Ich weiß es nicht.",
+          "Я не знаю."
+        ],
+        [
+          "Bis morgen!",
+          "До завтра!"
+        ]
+      ],
+      "words": [
+        {
+          "rank": 71,
+          "de": "jetzt",
+          "ru": "сейчас"
+        },
+        {
+          "rank": 72,
+          "de": "doch",
+          "ru": "всё же; однако"
+        },
+        {
+          "rank": 73,
+          "de": "wieder",
+          "ru": "снова"
+        },
+        {
+          "rank": 74,
+          "de": "uns",
+          "ru": "нас; нам"
+        },
+        {
+          "rank": 75,
+          "de": "gut",
+          "ru": "хороший; хорошо"
+        },
+        {
+          "rank": 76,
+          "de": "bis",
+          "ru": "до; пока"
+        },
+        {
+          "rank": 77,
+          "de": "wissen",
+          "ru": "знать"
+        },
+        {
+          "rank": 78,
+          "de": "sehen",
+          "ru": "видеть"
+        },
+        {
+          "rank": 79,
+          "de": "einer",
+          "ru": "один; кто-то"
+        },
+        {
+          "rank": 80,
+          "de": "sehr",
+          "ru": "очень"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Новый сосед",
+      "anki": [
+        81,
+        90
+      ],
+      "micro": {
+        "pattern": "…, weil …",
+        "note": "После weil действие обычно уходит в конец: weil er nicht zu Hause ist.",
+        "examples": [
+          [
+            "Ich schreibe ihm, weil er nicht zu Hause ist.",
+            "Я пишу ему, потому что его нет дома."
+          ],
+          [
+            "Ich bleibe hier, weil ich warte.",
+            "Я остаюсь здесь, потому что жду."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Unser neuer Nachbar ist ein ruhiger Mensch.",
+          "Наш новый сосед — спокойный человек."
+        ],
+        [
+          "Er steht jeden Morgen vor dem Haus.",
+          "Каждое утро он стоит перед домом."
+        ],
+        [
+          "Heute liegt ein Paket unter seinem Tisch.",
+          "Сегодня под его столом лежит посылка."
+        ],
+        [
+          "Ich schreibe ihm, weil er nicht zu Hause ist.",
+          "Я пишу ему, потому что его нет дома."
+        ],
+        [
+          "Dieses Mal ist alles einfach.",
+          "В этот раз всё просто."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wer ist neu?",
+          "hint": "Используй: unser Nachbar",
+          "accepted": [
+            "Unser Nachbar ist neu.",
+            "Der Nachbar ist neu.",
+            "Unser neuer Nachbar."
+          ]
+        },
+        {
+          "q": "Wo liegt das Paket?",
+          "hint": "Используй: unter dem Tisch",
+          "accepted": [
+            "Das Paket liegt unter dem Tisch.",
+            "Unter dem Tisch.",
+            "Es liegt unter dem Tisch."
+          ]
+        },
+        {
+          "q": "Warum schreibst du ihm?",
+          "hint": "Начни: Weil …",
+          "accepted": [
+            "Weil er nicht zu Hause ist.",
+            "Ich schreibe ihm, weil er nicht zu Hause ist.",
+            "Weil er nicht da ist."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Ist unser neuer Nachbar zu Hause?",
+          "Наш новый сосед дома?"
+        ],
+        [
+          "B",
+          "Nein, er ist nicht da.",
+          "Нет, его нет."
+        ],
+        [
+          "A",
+          "Was machen wir mit dem Paket?",
+          "Что делать с посылкой?"
+        ],
+        [
+          "B",
+          "Ich schreibe ihm.",
+          "Я ему напишу."
+        ]
+      ],
+      "phrases": [
+        [
+          "Unser neuer Nachbar.",
+          "Наш новый сосед."
+        ],
+        [
+          "Das Paket liegt unter dem Tisch.",
+          "Посылка лежит под столом."
+        ],
+        [
+          "Ich schreibe ihm.",
+          "Я ему напишу."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 81,
+          "de": "das Mal",
+          "ru": "раз"
+        },
+        {
+          "rank": 82,
+          "de": "lassen",
+          "ru": "позволять; оставлять"
+        },
+        {
+          "rank": 83,
+          "de": "neu",
+          "ru": "новый"
+        },
+        {
+          "rank": 84,
+          "de": "stehen",
+          "ru": "стоять"
+        },
+        {
+          "rank": 85,
+          "de": "unser",
+          "ru": "наш"
+        },
+        {
+          "rank": 86,
+          "de": "jede",
+          "ru": "каждый"
+        },
+        {
+          "rank": 87,
+          "de": "weil",
+          "ru": "потому что"
+        },
+        {
+          "rank": 88,
+          "de": "unter",
+          "ru": "под; среди"
+        },
+        {
+          "rank": 89,
+          "de": "der Mensch",
+          "ru": "человек"
+        },
+        {
+          "rank": 90,
+          "de": "ihm",
+          "ru": "ему"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Первый текст",
+      "anki": [
+        91,
+        100
+      ],
+      "micro": {
+        "pattern": "Zum ersten Mal … / Das mache ich selbst.",
+        "note": "Zum ersten Mal — «в первый раз». selbst — «сам».",
+        "examples": [
+          [
+            "Zum ersten Mal schreibe ich selbst.",
+            "В первый раз я пишу сам."
+          ],
+          [
+            "Das mache ich selbst.",
+            "Я сделаю это сам."
+          ]
+        ]
+      },
+      "text": [
+        [
+          "Meine Frau und ich leben schon lange hier.",
+          "Мы с женой уже давно живём здесь."
+        ],
+        [
+          "Heute habe ich etwas Zeit.",
+          "Сегодня у меня есть немного времени."
+        ],
+        [
+          "Zum ersten Mal schreibe ich einen kurzen Text selbst.",
+          "В первый раз я сам пишу короткий текст."
+        ],
+        [
+          "Ein Freund liest ihn, denn ich brauche Hilfe.",
+          "Друг читает его, потому что мне нужна помощь."
+        ],
+        [
+          "Das erste Beispiel ist kurz.",
+          "Первый пример короткий."
+        ],
+        [
+          "Der Text ist nicht lang.",
+          "Текст не длинный."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Wer lebt schon lange hier?",
+          "hint": "Используй: meine Frau und ich",
+          "accepted": [
+            "Meine Frau und ich leben schon lange hier.",
+            "Meine Frau und ich.",
+            "Wir leben schon lange hier."
+          ]
+        },
+        {
+          "q": "Was machst du zum ersten Mal?",
+          "hint": "Используй: einen Text schreiben",
+          "accepted": [
+            "Zum ersten Mal schreibe ich einen Text selbst.",
+            "Ich schreibe zum ersten Mal einen Text selbst.",
+            "Ich schreibe einen Text selbst."
+          ]
+        },
+        {
+          "q": "Ist der Text lang?",
+          "hint": "Начни: Nein, …",
+          "accepted": [
+            "Nein, der Text ist nicht lang.",
+            "Der Text ist nicht lang.",
+            "Nein, er ist nicht lang."
+          ]
+        }
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Hast du heute etwas Zeit?",
+          "У тебя сегодня есть немного времени?"
+        ],
+        [
+          "B",
+          "Ja, ich schreibe einen kurzen Text.",
+          "Да, я пишу короткий текст."
+        ],
+        [
+          "A",
+          "Machst du das selbst?",
+          "Ты делаешь это сам?"
+        ],
+        [
+          "B",
+          "Ja, zum ersten Mal.",
+          "Да, впервые."
+        ]
+      ],
+      "phrases": [
+        [
+          "Ich habe etwas Zeit.",
+          "У меня есть немного времени."
+        ],
+        [
+          "Zum ersten Mal.",
+          "В первый раз."
+        ],
+        [
+          "Das mache ich selbst.",
+          "Я сделаю это сам."
+        ]
+      ],
+      "words": [
+        {
+          "rank": 91,
+          "de": "ihn",
+          "ru": "его"
+        },
+        {
+          "rank": 92,
+          "de": "denn",
+          "ru": "потому что; же"
+        },
+        {
+          "rank": 93,
+          "de": "das Beispiel",
+          "ru": "пример"
+        },
+        {
+          "rank": 94,
+          "de": "erste",
+          "ru": "первый"
+        },
+        {
+          "rank": 95,
+          "de": "die Zeit",
+          "ru": "время"
+        },
+        {
+          "rank": 96,
+          "de": "lang",
+          "ru": "длинный; долго"
+        },
+        {
+          "rank": 97,
+          "de": "leben",
+          "ru": "жить"
+        },
+        {
+          "rank": 98,
+          "de": "die Frau",
+          "ru": "женщина; жена"
+        },
+        {
+          "rank": 99,
+          "de": "etwas",
+          "ru": "что-то; немного"
+        },
+        {
+          "rank": 100,
+          "de": "selbst",
+          "ru": "сам; даже"
+        }
+      ]
+    }
+  ]
+}

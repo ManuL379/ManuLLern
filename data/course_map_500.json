@@ -1,0 +1,2508 @@
+{
+  "formatVersion": 1,
+  "course": "Deutsch 5000",
+  "targetLessons": 500,
+  "targetWords": 5000,
+  "ranges": [
+    {
+      "lesson": 1,
+      "ankiStart": 1,
+      "ankiEnd": 10
+    },
+    {
+      "lesson": 2,
+      "ankiStart": 11,
+      "ankiEnd": 20
+    },
+    {
+      "lesson": 3,
+      "ankiStart": 21,
+      "ankiEnd": 30
+    },
+    {
+      "lesson": 4,
+      "ankiStart": 31,
+      "ankiEnd": 40
+    },
+    {
+      "lesson": 5,
+      "ankiStart": 41,
+      "ankiEnd": 50
+    },
+    {
+      "lesson": 6,
+      "ankiStart": 51,
+      "ankiEnd": 60
+    },
+    {
+      "lesson": 7,
+      "ankiStart": 61,
+      "ankiEnd": 70
+    },
+    {
+      "lesson": 8,
+      "ankiStart": 71,
+      "ankiEnd": 80
+    },
+    {
+      "lesson": 9,
+      "ankiStart": 81,
+      "ankiEnd": 90
+    },
+    {
+      "lesson": 10,
+      "ankiStart": 91,
+      "ankiEnd": 100
+    },
+    {
+      "lesson": 11,
+      "ankiStart": 101,
+      "ankiEnd": 110
+    },
+    {
+      "lesson": 12,
+      "ankiStart": 111,
+      "ankiEnd": 120
+    },
+    {
+      "lesson": 13,
+      "ankiStart": 121,
+      "ankiEnd": 130
+    },
+    {
+      "lesson": 14,
+      "ankiStart": 131,
+      "ankiEnd": 140
+    },
+    {
+      "lesson": 15,
+      "ankiStart": 141,
+      "ankiEnd": 150
+    },
+    {
+      "lesson": 16,
+      "ankiStart": 151,
+      "ankiEnd": 160
+    },
+    {
+      "lesson": 17,
+      "ankiStart": 161,
+      "ankiEnd": 170
+    },
+    {
+      "lesson": 18,
+      "ankiStart": 171,
+      "ankiEnd": 180
+    },
+    {
+      "lesson": 19,
+      "ankiStart": 181,
+      "ankiEnd": 190
+    },
+    {
+      "lesson": 20,
+      "ankiStart": 191,
+      "ankiEnd": 200
+    },
+    {
+      "lesson": 21,
+      "ankiStart": 201,
+      "ankiEnd": 210
+    },
+    {
+      "lesson": 22,
+      "ankiStart": 211,
+      "ankiEnd": 220
+    },
+    {
+      "lesson": 23,
+      "ankiStart": 221,
+      "ankiEnd": 230
+    },
+    {
+      "lesson": 24,
+      "ankiStart": 231,
+      "ankiEnd": 240
+    },
+    {
+      "lesson": 25,
+      "ankiStart": 241,
+      "ankiEnd": 250
+    },
+    {
+      "lesson": 26,
+      "ankiStart": 251,
+      "ankiEnd": 260
+    },
+    {
+      "lesson": 27,
+      "ankiStart": 261,
+      "ankiEnd": 270
+    },
+    {
+      "lesson": 28,
+      "ankiStart": 271,
+      "ankiEnd": 280
+    },
+    {
+      "lesson": 29,
+      "ankiStart": 281,
+      "ankiEnd": 290
+    },
+    {
+      "lesson": 30,
+      "ankiStart": 291,
+      "ankiEnd": 300
+    },
+    {
+      "lesson": 31,
+      "ankiStart": 301,
+      "ankiEnd": 310
+    },
+    {
+      "lesson": 32,
+      "ankiStart": 311,
+      "ankiEnd": 320
+    },
+    {
+      "lesson": 33,
+      "ankiStart": 321,
+      "ankiEnd": 330
+    },
+    {
+      "lesson": 34,
+      "ankiStart": 331,
+      "ankiEnd": 340
+    },
+    {
+      "lesson": 35,
+      "ankiStart": 341,
+      "ankiEnd": 350
+    },
+    {
+      "lesson": 36,
+      "ankiStart": 351,
+      "ankiEnd": 360
+    },
+    {
+      "lesson": 37,
+      "ankiStart": 361,
+      "ankiEnd": 370
+    },
+    {
+      "lesson": 38,
+      "ankiStart": 371,
+      "ankiEnd": 380
+    },
+    {
+      "lesson": 39,
+      "ankiStart": 381,
+      "ankiEnd": 390
+    },
+    {
+      "lesson": 40,
+      "ankiStart": 391,
+      "ankiEnd": 400
+    },
+    {
+      "lesson": 41,
+      "ankiStart": 401,
+      "ankiEnd": 410
+    },
+    {
+      "lesson": 42,
+      "ankiStart": 411,
+      "ankiEnd": 420
+    },
+    {
+      "lesson": 43,
+      "ankiStart": 421,
+      "ankiEnd": 430
+    },
+    {
+      "lesson": 44,
+      "ankiStart": 431,
+      "ankiEnd": 440
+    },
+    {
+      "lesson": 45,
+      "ankiStart": 441,
+      "ankiEnd": 450
+    },
+    {
+      "lesson": 46,
+      "ankiStart": 451,
+      "ankiEnd": 460
+    },
+    {
+      "lesson": 47,
+      "ankiStart": 461,
+      "ankiEnd": 470
+    },
+    {
+      "lesson": 48,
+      "ankiStart": 471,
+      "ankiEnd": 480
+    },
+    {
+      "lesson": 49,
+      "ankiStart": 481,
+      "ankiEnd": 490
+    },
+    {
+      "lesson": 50,
+      "ankiStart": 491,
+      "ankiEnd": 500
+    },
+    {
+      "lesson": 51,
+      "ankiStart": 501,
+      "ankiEnd": 510
+    },
+    {
+      "lesson": 52,
+      "ankiStart": 511,
+      "ankiEnd": 520
+    },
+    {
+      "lesson": 53,
+      "ankiStart": 521,
+      "ankiEnd": 530
+    },
+    {
+      "lesson": 54,
+      "ankiStart": 531,
+      "ankiEnd": 540
+    },
+    {
+      "lesson": 55,
+      "ankiStart": 541,
+      "ankiEnd": 550
+    },
+    {
+      "lesson": 56,
+      "ankiStart": 551,
+      "ankiEnd": 560
+    },
+    {
+      "lesson": 57,
+      "ankiStart": 561,
+      "ankiEnd": 570
+    },
+    {
+      "lesson": 58,
+      "ankiStart": 571,
+      "ankiEnd": 580
+    },
+    {
+      "lesson": 59,
+      "ankiStart": 581,
+      "ankiEnd": 590
+    },
+    {
+      "lesson": 60,
+      "ankiStart": 591,
+      "ankiEnd": 600
+    },
+    {
+      "lesson": 61,
+      "ankiStart": 601,
+      "ankiEnd": 610
+    },
+    {
+      "lesson": 62,
+      "ankiStart": 611,
+      "ankiEnd": 620
+    },
+    {
+      "lesson": 63,
+      "ankiStart": 621,
+      "ankiEnd": 630
+    },
+    {
+      "lesson": 64,
+      "ankiStart": 631,
+      "ankiEnd": 640
+    },
+    {
+      "lesson": 65,
+      "ankiStart": 641,
+      "ankiEnd": 650
+    },
+    {
+      "lesson": 66,
+      "ankiStart": 651,
+      "ankiEnd": 660
+    },
+    {
+      "lesson": 67,
+      "ankiStart": 661,
+      "ankiEnd": 670
+    },
+    {
+      "lesson": 68,
+      "ankiStart": 671,
+      "ankiEnd": 680
+    },
+    {
+      "lesson": 69,
+      "ankiStart": 681,
+      "ankiEnd": 690
+    },
+    {
+      "lesson": 70,
+      "ankiStart": 691,
+      "ankiEnd": 700
+    },
+    {
+      "lesson": 71,
+      "ankiStart": 701,
+      "ankiEnd": 710
+    },
+    {
+      "lesson": 72,
+      "ankiStart": 711,
+      "ankiEnd": 720
+    },
+    {
+      "lesson": 73,
+      "ankiStart": 721,
+      "ankiEnd": 730
+    },
+    {
+      "lesson": 74,
+      "ankiStart": 731,
+      "ankiEnd": 740
+    },
+    {
+      "lesson": 75,
+      "ankiStart": 741,
+      "ankiEnd": 750
+    },
+    {
+      "lesson": 76,
+      "ankiStart": 751,
+      "ankiEnd": 760
+    },
+    {
+      "lesson": 77,
+      "ankiStart": 761,
+      "ankiEnd": 770
+    },
+    {
+      "lesson": 78,
+      "ankiStart": 771,
+      "ankiEnd": 780
+    },
+    {
+      "lesson": 79,
+      "ankiStart": 781,
+      "ankiEnd": 790
+    },
+    {
+      "lesson": 80,
+      "ankiStart": 791,
+      "ankiEnd": 800
+    },
+    {
+      "lesson": 81,
+      "ankiStart": 801,
+      "ankiEnd": 810
+    },
+    {
+      "lesson": 82,
+      "ankiStart": 811,
+      "ankiEnd": 820
+    },
+    {
+      "lesson": 83,
+      "ankiStart": 821,
+      "ankiEnd": 830
+    },
+    {
+      "lesson": 84,
+      "ankiStart": 831,
+      "ankiEnd": 840
+    },
+    {
+      "lesson": 85,
+      "ankiStart": 841,
+      "ankiEnd": 850
+    },
+    {
+      "lesson": 86,
+      "ankiStart": 851,
+      "ankiEnd": 860
+    },
+    {
+      "lesson": 87,
+      "ankiStart": 861,
+      "ankiEnd": 870
+    },
+    {
+      "lesson": 88,
+      "ankiStart": 871,
+      "ankiEnd": 880
+    },
+    {
+      "lesson": 89,
+      "ankiStart": 881,
+      "ankiEnd": 890
+    },
+    {
+      "lesson": 90,
+      "ankiStart": 891,
+      "ankiEnd": 900
+    },
+    {
+      "lesson": 91,
+      "ankiStart": 901,
+      "ankiEnd": 910
+    },
+    {
+      "lesson": 92,
+      "ankiStart": 911,
+      "ankiEnd": 920
+    },
+    {
+      "lesson": 93,
+      "ankiStart": 921,
+      "ankiEnd": 930
+    },
+    {
+      "lesson": 94,
+      "ankiStart": 931,
+      "ankiEnd": 940
+    },
+    {
+      "lesson": 95,
+      "ankiStart": 941,
+      "ankiEnd": 950
+    },
+    {
+      "lesson": 96,
+      "ankiStart": 951,
+      "ankiEnd": 960
+    },
+    {
+      "lesson": 97,
+      "ankiStart": 961,
+      "ankiEnd": 970
+    },
+    {
+      "lesson": 98,
+      "ankiStart": 971,
+      "ankiEnd": 980
+    },
+    {
+      "lesson": 99,
+      "ankiStart": 981,
+      "ankiEnd": 990
+    },
+    {
+      "lesson": 100,
+      "ankiStart": 991,
+      "ankiEnd": 1000
+    },
+    {
+      "lesson": 101,
+      "ankiStart": 1001,
+      "ankiEnd": 1010
+    },
+    {
+      "lesson": 102,
+      "ankiStart": 1011,
+      "ankiEnd": 1020
+    },
+    {
+      "lesson": 103,
+      "ankiStart": 1021,
+      "ankiEnd": 1030
+    },
+    {
+      "lesson": 104,
+      "ankiStart": 1031,
+      "ankiEnd": 1040
+    },
+    {
+      "lesson": 105,
+      "ankiStart": 1041,
+      "ankiEnd": 1050
+    },
+    {
+      "lesson": 106,
+      "ankiStart": 1051,
+      "ankiEnd": 1060
+    },
+    {
+      "lesson": 107,
+      "ankiStart": 1061,
+      "ankiEnd": 1070
+    },
+    {
+      "lesson": 108,
+      "ankiStart": 1071,
+      "ankiEnd": 1080
+    },
+    {
+      "lesson": 109,
+      "ankiStart": 1081,
+      "ankiEnd": 1090
+    },
+    {
+      "lesson": 110,
+      "ankiStart": 1091,
+      "ankiEnd": 1100
+    },
+    {
+      "lesson": 111,
+      "ankiStart": 1101,
+      "ankiEnd": 1110
+    },
+    {
+      "lesson": 112,
+      "ankiStart": 1111,
+      "ankiEnd": 1120
+    },
+    {
+      "lesson": 113,
+      "ankiStart": 1121,
+      "ankiEnd": 1130
+    },
+    {
+      "lesson": 114,
+      "ankiStart": 1131,
+      "ankiEnd": 1140
+    },
+    {
+      "lesson": 115,
+      "ankiStart": 1141,
+      "ankiEnd": 1150
+    },
+    {
+      "lesson": 116,
+      "ankiStart": 1151,
+      "ankiEnd": 1160
+    },
+    {
+      "lesson": 117,
+      "ankiStart": 1161,
+      "ankiEnd": 1170
+    },
+    {
+      "lesson": 118,
+      "ankiStart": 1171,
+      "ankiEnd": 1180
+    },
+    {
+      "lesson": 119,
+      "ankiStart": 1181,
+      "ankiEnd": 1190
+    },
+    {
+      "lesson": 120,
+      "ankiStart": 1191,
+      "ankiEnd": 1200
+    },
+    {
+      "lesson": 121,
+      "ankiStart": 1201,
+      "ankiEnd": 1210
+    },
+    {
+      "lesson": 122,
+      "ankiStart": 1211,
+      "ankiEnd": 1220
+    },
+    {
+      "lesson": 123,
+      "ankiStart": 1221,
+      "ankiEnd": 1230
+    },
+    {
+      "lesson": 124,
+      "ankiStart": 1231,
+      "ankiEnd": 1240
+    },
+    {
+      "lesson": 125,
+      "ankiStart": 1241,
+      "ankiEnd": 1250
+    },
+    {
+      "lesson": 126,
+      "ankiStart": 1251,
+      "ankiEnd": 1260
+    },
+    {
+      "lesson": 127,
+      "ankiStart": 1261,
+      "ankiEnd": 1270
+    },
+    {
+      "lesson": 128,
+      "ankiStart": 1271,
+      "ankiEnd": 1280
+    },
+    {
+      "lesson": 129,
+      "ankiStart": 1281,
+      "ankiEnd": 1290
+    },
+    {
+      "lesson": 130,
+      "ankiStart": 1291,
+      "ankiEnd": 1300
+    },
+    {
+      "lesson": 131,
+      "ankiStart": 1301,
+      "ankiEnd": 1310
+    },
+    {
+      "lesson": 132,
+      "ankiStart": 1311,
+      "ankiEnd": 1320
+    },
+    {
+      "lesson": 133,
+      "ankiStart": 1321,
+      "ankiEnd": 1330
+    },
+    {
+      "lesson": 134,
+      "ankiStart": 1331,
+      "ankiEnd": 1340
+    },
+    {
+      "lesson": 135,
+      "ankiStart": 1341,
+      "ankiEnd": 1350
+    },
+    {
+      "lesson": 136,
+      "ankiStart": 1351,
+      "ankiEnd": 1360
+    },
+    {
+      "lesson": 137,
+      "ankiStart": 1361,
+      "ankiEnd": 1370
+    },
+    {
+      "lesson": 138,
+      "ankiStart": 1371,
+      "ankiEnd": 1380
+    },
+    {
+      "lesson": 139,
+      "ankiStart": 1381,
+      "ankiEnd": 1390
+    },
+    {
+      "lesson": 140,
+      "ankiStart": 1391,
+      "ankiEnd": 1400
+    },
+    {
+      "lesson": 141,
+      "ankiStart": 1401,
+      "ankiEnd": 1410
+    },
+    {
+      "lesson": 142,
+      "ankiStart": 1411,
+      "ankiEnd": 1420
+    },
+    {
+      "lesson": 143,
+      "ankiStart": 1421,
+      "ankiEnd": 1430
+    },
+    {
+      "lesson": 144,
+      "ankiStart": 1431,
+      "ankiEnd": 1440
+    },
+    {
+      "lesson": 145,
+      "ankiStart": 1441,
+      "ankiEnd": 1450
+    },
+    {
+      "lesson": 146,
+      "ankiStart": 1451,
+      "ankiEnd": 1460
+    },
+    {
+      "lesson": 147,
+      "ankiStart": 1461,
+      "ankiEnd": 1470
+    },
+    {
+      "lesson": 148,
+      "ankiStart": 1471,
+      "ankiEnd": 1480
+    },
+    {
+      "lesson": 149,
+      "ankiStart": 1481,
+      "ankiEnd": 1490
+    },
+    {
+      "lesson": 150,
+      "ankiStart": 1491,
+      "ankiEnd": 1500
+    },
+    {
+      "lesson": 151,
+      "ankiStart": 1501,
+      "ankiEnd": 1510
+    },
+    {
+      "lesson": 152,
+      "ankiStart": 1511,
+      "ankiEnd": 1520
+    },
+    {
+      "lesson": 153,
+      "ankiStart": 1521,
+      "ankiEnd": 1530
+    },
+    {
+      "lesson": 154,
+      "ankiStart": 1531,
+      "ankiEnd": 1540
+    },
+    {
+      "lesson": 155,
+      "ankiStart": 1541,
+      "ankiEnd": 1550
+    },
+    {
+      "lesson": 156,
+      "ankiStart": 1551,
+      "ankiEnd": 1560
+    },
+    {
+      "lesson": 157,
+      "ankiStart": 1561,
+      "ankiEnd": 1570
+    },
+    {
+      "lesson": 158,
+      "ankiStart": 1571,
+      "ankiEnd": 1580
+    },
+    {
+      "lesson": 159,
+      "ankiStart": 1581,
+      "ankiEnd": 1590
+    },
+    {
+      "lesson": 160,
+      "ankiStart": 1591,
+      "ankiEnd": 1600
+    },
+    {
+      "lesson": 161,
+      "ankiStart": 1601,
+      "ankiEnd": 1610
+    },
+    {
+      "lesson": 162,
+      "ankiStart": 1611,
+      "ankiEnd": 1620
+    },
+    {
+      "lesson": 163,
+      "ankiStart": 1621,
+      "ankiEnd": 1630
+    },
+    {
+      "lesson": 164,
+      "ankiStart": 1631,
+      "ankiEnd": 1640
+    },
+    {
+      "lesson": 165,
+      "ankiStart": 1641,
+      "ankiEnd": 1650
+    },
+    {
+      "lesson": 166,
+      "ankiStart": 1651,
+      "ankiEnd": 1660
+    },
+    {
+      "lesson": 167,
+      "ankiStart": 1661,
+      "ankiEnd": 1670
+    },
+    {
+      "lesson": 168,
+      "ankiStart": 1671,
+      "ankiEnd": 1680
+    },
+    {
+      "lesson": 169,
+      "ankiStart": 1681,
+      "ankiEnd": 1690
+    },
+    {
+      "lesson": 170,
+      "ankiStart": 1691,
+      "ankiEnd": 1700
+    },
+    {
+      "lesson": 171,
+      "ankiStart": 1701,
+      "ankiEnd": 1710
+    },
+    {
+      "lesson": 172,
+      "ankiStart": 1711,
+      "ankiEnd": 1720
+    },
+    {
+      "lesson": 173,
+      "ankiStart": 1721,
+      "ankiEnd": 1730
+    },
+    {
+      "lesson": 174,
+      "ankiStart": 1731,
+      "ankiEnd": 1740
+    },
+    {
+      "lesson": 175,
+      "ankiStart": 1741,
+      "ankiEnd": 1750
+    },
+    {
+      "lesson": 176,
+      "ankiStart": 1751,
+      "ankiEnd": 1760
+    },
+    {
+      "lesson": 177,
+      "ankiStart": 1761,
+      "ankiEnd": 1770
+    },
+    {
+      "lesson": 178,
+      "ankiStart": 1771,
+      "ankiEnd": 1780
+    },
+    {
+      "lesson": 179,
+      "ankiStart": 1781,
+      "ankiEnd": 1790
+    },
+    {
+      "lesson": 180,
+      "ankiStart": 1791,
+      "ankiEnd": 1800
+    },
+    {
+      "lesson": 181,
+      "ankiStart": 1801,
+      "ankiEnd": 1810
+    },
+    {
+      "lesson": 182,
+      "ankiStart": 1811,
+      "ankiEnd": 1820
+    },
+    {
+      "lesson": 183,
+      "ankiStart": 1821,
+      "ankiEnd": 1830
+    },
+    {
+      "lesson": 184,
+      "ankiStart": 1831,
+      "ankiEnd": 1840
+    },
+    {
+      "lesson": 185,
+      "ankiStart": 1841,
+      "ankiEnd": 1850
+    },
+    {
+      "lesson": 186,
+      "ankiStart": 1851,
+      "ankiEnd": 1860
+    },
+    {
+      "lesson": 187,
+      "ankiStart": 1861,
+      "ankiEnd": 1870
+    },
+    {
+      "lesson": 188,
+      "ankiStart": 1871,
+      "ankiEnd": 1880
+    },
+    {
+      "lesson": 189,
+      "ankiStart": 1881,
+      "ankiEnd": 1890
+    },
+    {
+      "lesson": 190,
+      "ankiStart": 1891,
+      "ankiEnd": 1900
+    },
+    {
+      "lesson": 191,
+      "ankiStart": 1901,
+      "ankiEnd": 1910
+    },
+    {
+      "lesson": 192,
+      "ankiStart": 1911,
+      "ankiEnd": 1920
+    },
+    {
+      "lesson": 193,
+      "ankiStart": 1921,
+      "ankiEnd": 1930
+    },
+    {
+      "lesson": 194,
+      "ankiStart": 1931,
+      "ankiEnd": 1940
+    },
+    {
+      "lesson": 195,
+      "ankiStart": 1941,
+      "ankiEnd": 1950
+    },
+    {
+      "lesson": 196,
+      "ankiStart": 1951,
+      "ankiEnd": 1960
+    },
+    {
+      "lesson": 197,
+      "ankiStart": 1961,
+      "ankiEnd": 1970
+    },
+    {
+      "lesson": 198,
+      "ankiStart": 1971,
+      "ankiEnd": 1980
+    },
+    {
+      "lesson": 199,
+      "ankiStart": 1981,
+      "ankiEnd": 1990
+    },
+    {
+      "lesson": 200,
+      "ankiStart": 1991,
+      "ankiEnd": 2000
+    },
+    {
+      "lesson": 201,
+      "ankiStart": 2001,
+      "ankiEnd": 2010
+    },
+    {
+      "lesson": 202,
+      "ankiStart": 2011,
+      "ankiEnd": 2020
+    },
+    {
+      "lesson": 203,
+      "ankiStart": 2021,
+      "ankiEnd": 2030
+    },
+    {
+      "lesson": 204,
+      "ankiStart": 2031,
+      "ankiEnd": 2040
+    },
+    {
+      "lesson": 205,
+      "ankiStart": 2041,
+      "ankiEnd": 2050
+    },
+    {
+      "lesson": 206,
+      "ankiStart": 2051,
+      "ankiEnd": 2060
+    },
+    {
+      "lesson": 207,
+      "ankiStart": 2061,
+      "ankiEnd": 2070
+    },
+    {
+      "lesson": 208,
+      "ankiStart": 2071,
+      "ankiEnd": 2080
+    },
+    {
+      "lesson": 209,
+      "ankiStart": 2081,
+      "ankiEnd": 2090
+    },
+    {
+      "lesson": 210,
+      "ankiStart": 2091,
+      "ankiEnd": 2100
+    },
+    {
+      "lesson": 211,
+      "ankiStart": 2101,
+      "ankiEnd": 2110
+    },
+    {
+      "lesson": 212,
+      "ankiStart": 2111,
+      "ankiEnd": 2120
+    },
+    {
+      "lesson": 213,
+      "ankiStart": 2121,
+      "ankiEnd": 2130
+    },
+    {
+      "lesson": 214,
+      "ankiStart": 2131,
+      "ankiEnd": 2140
+    },
+    {
+      "lesson": 215,
+      "ankiStart": 2141,
+      "ankiEnd": 2150
+    },
+    {
+      "lesson": 216,
+      "ankiStart": 2151,
+      "ankiEnd": 2160
+    },
+    {
+      "lesson": 217,
+      "ankiStart": 2161,
+      "ankiEnd": 2170
+    },
+    {
+      "lesson": 218,
+      "ankiStart": 2171,
+      "ankiEnd": 2180
+    },
+    {
+      "lesson": 219,
+      "ankiStart": 2181,
+      "ankiEnd": 2190
+    },
+    {
+      "lesson": 220,
+      "ankiStart": 2191,
+      "ankiEnd": 2200
+    },
+    {
+      "lesson": 221,
+      "ankiStart": 2201,
+      "ankiEnd": 2210
+    },
+    {
+      "lesson": 222,
+      "ankiStart": 2211,
+      "ankiEnd": 2220
+    },
+    {
+      "lesson": 223,
+      "ankiStart": 2221,
+      "ankiEnd": 2230
+    },
+    {
+      "lesson": 224,
+      "ankiStart": 2231,
+      "ankiEnd": 2240
+    },
+    {
+      "lesson": 225,
+      "ankiStart": 2241,
+      "ankiEnd": 2250
+    },
+    {
+      "lesson": 226,
+      "ankiStart": 2251,
+      "ankiEnd": 2260
+    },
+    {
+      "lesson": 227,
+      "ankiStart": 2261,
+      "ankiEnd": 2270
+    },
+    {
+      "lesson": 228,
+      "ankiStart": 2271,
+      "ankiEnd": 2280
+    },
+    {
+      "lesson": 229,
+      "ankiStart": 2281,
+      "ankiEnd": 2290
+    },
+    {
+      "lesson": 230,
+      "ankiStart": 2291,
+      "ankiEnd": 2300
+    },
+    {
+      "lesson": 231,
+      "ankiStart": 2301,
+      "ankiEnd": 2310
+    },
+    {
+      "lesson": 232,
+      "ankiStart": 2311,
+      "ankiEnd": 2320
+    },
+    {
+      "lesson": 233,
+      "ankiStart": 2321,
+      "ankiEnd": 2330
+    },
+    {
+      "lesson": 234,
+      "ankiStart": 2331,
+      "ankiEnd": 2340
+    },
+    {
+      "lesson": 235,
+      "ankiStart": 2341,
+      "ankiEnd": 2350
+    },
+    {
+      "lesson": 236,
+      "ankiStart": 2351,
+      "ankiEnd": 2360
+    },
+    {
+      "lesson": 237,
+      "ankiStart": 2361,
+      "ankiEnd": 2370
+    },
+    {
+      "lesson": 238,
+      "ankiStart": 2371,
+      "ankiEnd": 2380
+    },
+    {
+      "lesson": 239,
+      "ankiStart": 2381,
+      "ankiEnd": 2390
+    },
+    {
+      "lesson": 240,
+      "ankiStart": 2391,
+      "ankiEnd": 2400
+    },
+    {
+      "lesson": 241,
+      "ankiStart": 2401,
+      "ankiEnd": 2410
+    },
+    {
+      "lesson": 242,
+      "ankiStart": 2411,
+      "ankiEnd": 2420
+    },
+    {
+      "lesson": 243,
+      "ankiStart": 2421,
+      "ankiEnd": 2430
+    },
+    {
+      "lesson": 244,
+      "ankiStart": 2431,
+      "ankiEnd": 2440
+    },
+    {
+      "lesson": 245,
+      "ankiStart": 2441,
+      "ankiEnd": 2450
+    },
+    {
+      "lesson": 246,
+      "ankiStart": 2451,
+      "ankiEnd": 2460
+    },
+    {
+      "lesson": 247,
+      "ankiStart": 2461,
+      "ankiEnd": 2470
+    },
+    {
+      "lesson": 248,
+      "ankiStart": 2471,
+      "ankiEnd": 2480
+    },
+    {
+      "lesson": 249,
+      "ankiStart": 2481,
+      "ankiEnd": 2490
+    },
+    {
+      "lesson": 250,
+      "ankiStart": 2491,
+      "ankiEnd": 2500
+    },
+    {
+      "lesson": 251,
+      "ankiStart": 2501,
+      "ankiEnd": 2510
+    },
+    {
+      "lesson": 252,
+      "ankiStart": 2511,
+      "ankiEnd": 2520
+    },
+    {
+      "lesson": 253,
+      "ankiStart": 2521,
+      "ankiEnd": 2530
+    },
+    {
+      "lesson": 254,
+      "ankiStart": 2531,
+      "ankiEnd": 2540
+    },
+    {
+      "lesson": 255,
+      "ankiStart": 2541,
+      "ankiEnd": 2550
+    },
+    {
+      "lesson": 256,
+      "ankiStart": 2551,
+      "ankiEnd": 2560
+    },
+    {
+      "lesson": 257,
+      "ankiStart": 2561,
+      "ankiEnd": 2570
+    },
+    {
+      "lesson": 258,
+      "ankiStart": 2571,
+      "ankiEnd": 2580
+    },
+    {
+      "lesson": 259,
+      "ankiStart": 2581,
+      "ankiEnd": 2590
+    },
+    {
+      "lesson": 260,
+      "ankiStart": 2591,
+      "ankiEnd": 2600
+    },
+    {
+      "lesson": 261,
+      "ankiStart": 2601,
+      "ankiEnd": 2610
+    },
+    {
+      "lesson": 262,
+      "ankiStart": 2611,
+      "ankiEnd": 2620
+    },
+    {
+      "lesson": 263,
+      "ankiStart": 2621,
+      "ankiEnd": 2630
+    },
+    {
+      "lesson": 264,
+      "ankiStart": 2631,
+      "ankiEnd": 2640
+    },
+    {
+      "lesson": 265,
+      "ankiStart": 2641,
+      "ankiEnd": 2650
+    },
+    {
+      "lesson": 266,
+      "ankiStart": 2651,
+      "ankiEnd": 2660
+    },
+    {
+      "lesson": 267,
+      "ankiStart": 2661,
+      "ankiEnd": 2670
+    },
+    {
+      "lesson": 268,
+      "ankiStart": 2671,
+      "ankiEnd": 2680
+    },
+    {
+      "lesson": 269,
+      "ankiStart": 2681,
+      "ankiEnd": 2690
+    },
+    {
+      "lesson": 270,
+      "ankiStart": 2691,
+      "ankiEnd": 2700
+    },
+    {
+      "lesson": 271,
+      "ankiStart": 2701,
+      "ankiEnd": 2710
+    },
+    {
+      "lesson": 272,
+      "ankiStart": 2711,
+      "ankiEnd": 2720
+    },
+    {
+      "lesson": 273,
+      "ankiStart": 2721,
+      "ankiEnd": 2730
+    },
+    {
+      "lesson": 274,
+      "ankiStart": 2731,
+      "ankiEnd": 2740
+    },
+    {
+      "lesson": 275,
+      "ankiStart": 2741,
+      "ankiEnd": 2750
+    },
+    {
+      "lesson": 276,
+      "ankiStart": 2751,
+      "ankiEnd": 2760
+    },
+    {
+      "lesson": 277,
+      "ankiStart": 2761,
+      "ankiEnd": 2770
+    },
+    {
+      "lesson": 278,
+      "ankiStart": 2771,
+      "ankiEnd": 2780
+    },
+    {
+      "lesson": 279,
+      "ankiStart": 2781,
+      "ankiEnd": 2790
+    },
+    {
+      "lesson": 280,
+      "ankiStart": 2791,
+      "ankiEnd": 2800
+    },
+    {
+      "lesson": 281,
+      "ankiStart": 2801,
+      "ankiEnd": 2810
+    },
+    {
+      "lesson": 282,
+      "ankiStart": 2811,
+      "ankiEnd": 2820
+    },
+    {
+      "lesson": 283,
+      "ankiStart": 2821,
+      "ankiEnd": 2830
+    },
+    {
+      "lesson": 284,
+      "ankiStart": 2831,
+      "ankiEnd": 2840
+    },
+    {
+      "lesson": 285,
+      "ankiStart": 2841,
+      "ankiEnd": 2850
+    },
+    {
+      "lesson": 286,
+      "ankiStart": 2851,
+      "ankiEnd": 2860
+    },
+    {
+      "lesson": 287,
+      "ankiStart": 2861,
+      "ankiEnd": 2870
+    },
+    {
+      "lesson": 288,
+      "ankiStart": 2871,
+      "ankiEnd": 2880
+    },
+    {
+      "lesson": 289,
+      "ankiStart": 2881,
+      "ankiEnd": 2890
+    },
+    {
+      "lesson": 290,
+      "ankiStart": 2891,
+      "ankiEnd": 2900
+    },
+    {
+      "lesson": 291,
+      "ankiStart": 2901,
+      "ankiEnd": 2910
+    },
+    {
+      "lesson": 292,
+      "ankiStart": 2911,
+      "ankiEnd": 2920
+    },
+    {
+      "lesson": 293,
+      "ankiStart": 2921,
+      "ankiEnd": 2930
+    },
+    {
+      "lesson": 294,
+      "ankiStart": 2931,
+      "ankiEnd": 2940
+    },
+    {
+      "lesson": 295,
+      "ankiStart": 2941,
+      "ankiEnd": 2950
+    },
+    {
+      "lesson": 296,
+      "ankiStart": 2951,
+      "ankiEnd": 2960
+    },
+    {
+      "lesson": 297,
+      "ankiStart": 2961,
+      "ankiEnd": 2970
+    },
+    {
+      "lesson": 298,
+      "ankiStart": 2971,
+      "ankiEnd": 2980
+    },
+    {
+      "lesson": 299,
+      "ankiStart": 2981,
+      "ankiEnd": 2990
+    },
+    {
+      "lesson": 300,
+      "ankiStart": 2991,
+      "ankiEnd": 3000
+    },
+    {
+      "lesson": 301,
+      "ankiStart": 3001,
+      "ankiEnd": 3010
+    },
+    {
+      "lesson": 302,
+      "ankiStart": 3011,
+      "ankiEnd": 3020
+    },
+    {
+      "lesson": 303,
+      "ankiStart": 3021,
+      "ankiEnd": 3030
+    },
+    {
+      "lesson": 304,
+      "ankiStart": 3031,
+      "ankiEnd": 3040
+    },
+    {
+      "lesson": 305,
+      "ankiStart": 3041,
+      "ankiEnd": 3050
+    },
+    {
+      "lesson": 306,
+      "ankiStart": 3051,
+      "ankiEnd": 3060
+    },
+    {
+      "lesson": 307,
+      "ankiStart": 3061,
+      "ankiEnd": 3070
+    },
+    {
+      "lesson": 308,
+      "ankiStart": 3071,
+      "ankiEnd": 3080
+    },
+    {
+      "lesson": 309,
+      "ankiStart": 3081,
+      "ankiEnd": 3090
+    },
+    {
+      "lesson": 310,
+      "ankiStart": 3091,
+      "ankiEnd": 3100
+    },
+    {
+      "lesson": 311,
+      "ankiStart": 3101,
+      "ankiEnd": 3110
+    },
+    {
+      "lesson": 312,
+      "ankiStart": 3111,
+      "ankiEnd": 3120
+    },
+    {
+      "lesson": 313,
+      "ankiStart": 3121,
+      "ankiEnd": 3130
+    },
+    {
+      "lesson": 314,
+      "ankiStart": 3131,
+      "ankiEnd": 3140
+    },
+    {
+      "lesson": 315,
+      "ankiStart": 3141,
+      "ankiEnd": 3150
+    },
+    {
+      "lesson": 316,
+      "ankiStart": 3151,
+      "ankiEnd": 3160
+    },
+    {
+      "lesson": 317,
+      "ankiStart": 3161,
+      "ankiEnd": 3170
+    },
+    {
+      "lesson": 318,
+      "ankiStart": 3171,
+      "ankiEnd": 3180
+    },
+    {
+      "lesson": 319,
+      "ankiStart": 3181,
+      "ankiEnd": 3190
+    },
+    {
+      "lesson": 320,
+      "ankiStart": 3191,
+      "ankiEnd": 3200
+    },
+    {
+      "lesson": 321,
+      "ankiStart": 3201,
+      "ankiEnd": 3210
+    },
+    {
+      "lesson": 322,
+      "ankiStart": 3211,
+      "ankiEnd": 3220
+    },
+    {
+      "lesson": 323,
+      "ankiStart": 3221,
+      "ankiEnd": 3230
+    },
+    {
+      "lesson": 324,
+      "ankiStart": 3231,
+      "ankiEnd": 3240
+    },
+    {
+      "lesson": 325,
+      "ankiStart": 3241,
+      "ankiEnd": 3250
+    },
+    {
+      "lesson": 326,
+      "ankiStart": 3251,
+      "ankiEnd": 3260
+    },
+    {
+      "lesson": 327,
+      "ankiStart": 3261,
+      "ankiEnd": 3270
+    },
+    {
+      "lesson": 328,
+      "ankiStart": 3271,
+      "ankiEnd": 3280
+    },
+    {
+      "lesson": 329,
+      "ankiStart": 3281,
+      "ankiEnd": 3290
+    },
+    {
+      "lesson": 330,
+      "ankiStart": 3291,
+      "ankiEnd": 3300
+    },
+    {
+      "lesson": 331,
+      "ankiStart": 3301,
+      "ankiEnd": 3310
+    },
+    {
+      "lesson": 332,
+      "ankiStart": 3311,
+      "ankiEnd": 3320
+    },
+    {
+      "lesson": 333,
+      "ankiStart": 3321,
+      "ankiEnd": 3330
+    },
+    {
+      "lesson": 334,
+      "ankiStart": 3331,
+      "ankiEnd": 3340
+    },
+    {
+      "lesson": 335,
+      "ankiStart": 3341,
+      "ankiEnd": 3350
+    },
+    {
+      "lesson": 336,
+      "ankiStart": 3351,
+      "ankiEnd": 3360
+    },
+    {
+      "lesson": 337,
+      "ankiStart": 3361,
+      "ankiEnd": 3370
+    },
+    {
+      "lesson": 338,
+      "ankiStart": 3371,
+      "ankiEnd": 3380
+    },
+    {
+      "lesson": 339,
+      "ankiStart": 3381,
+      "ankiEnd": 3390
+    },
+    {
+      "lesson": 340,
+      "ankiStart": 3391,
+      "ankiEnd": 3400
+    },
+    {
+      "lesson": 341,
+      "ankiStart": 3401,
+      "ankiEnd": 3410
+    },
+    {
+      "lesson": 342,
+      "ankiStart": 3411,
+      "ankiEnd": 3420
+    },
+    {
+      "lesson": 343,
+      "ankiStart": 3421,
+      "ankiEnd": 3430
+    },
+    {
+      "lesson": 344,
+      "ankiStart": 3431,
+      "ankiEnd": 3440
+    },
+    {
+      "lesson": 345,
+      "ankiStart": 3441,
+      "ankiEnd": 3450
+    },
+    {
+      "lesson": 346,
+      "ankiStart": 3451,
+      "ankiEnd": 3460
+    },
+    {
+      "lesson": 347,
+      "ankiStart": 3461,
+      "ankiEnd": 3470
+    },
+    {
+      "lesson": 348,
+      "ankiStart": 3471,
+      "ankiEnd": 3480
+    },
+    {
+      "lesson": 349,
+      "ankiStart": 3481,
+      "ankiEnd": 3490
+    },
+    {
+      "lesson": 350,
+      "ankiStart": 3491,
+      "ankiEnd": 3500
+    },
+    {
+      "lesson": 351,
+      "ankiStart": 3501,
+      "ankiEnd": 3510
+    },
+    {
+      "lesson": 352,
+      "ankiStart": 3511,
+      "ankiEnd": 3520
+    },
+    {
+      "lesson": 353,
+      "ankiStart": 3521,
+      "ankiEnd": 3530
+    },
+    {
+      "lesson": 354,
+      "ankiStart": 3531,
+      "ankiEnd": 3540
+    },
+    {
+      "lesson": 355,
+      "ankiStart": 3541,
+      "ankiEnd": 3550
+    },
+    {
+      "lesson": 356,
+      "ankiStart": 3551,
+      "ankiEnd": 3560
+    },
+    {
+      "lesson": 357,
+      "ankiStart": 3561,
+      "ankiEnd": 3570
+    },
+    {
+      "lesson": 358,
+      "ankiStart": 3571,
+      "ankiEnd": 3580
+    },
+    {
+      "lesson": 359,
+      "ankiStart": 3581,
+      "ankiEnd": 3590
+    },
+    {
+      "lesson": 360,
+      "ankiStart": 3591,
+      "ankiEnd": 3600
+    },
+    {
+      "lesson": 361,
+      "ankiStart": 3601,
+      "ankiEnd": 3610
+    },
+    {
+      "lesson": 362,
+      "ankiStart": 3611,
+      "ankiEnd": 3620
+    },
+    {
+      "lesson": 363,
+      "ankiStart": 3621,
+      "ankiEnd": 3630
+    },
+    {
+      "lesson": 364,
+      "ankiStart": 3631,
+      "ankiEnd": 3640
+    },
+    {
+      "lesson": 365,
+      "ankiStart": 3641,
+      "ankiEnd": 3650
+    },
+    {
+      "lesson": 366,
+      "ankiStart": 3651,
+      "ankiEnd": 3660
+    },
+    {
+      "lesson": 367,
+      "ankiStart": 3661,
+      "ankiEnd": 3670
+    },
+    {
+      "lesson": 368,
+      "ankiStart": 3671,
+      "ankiEnd": 3680
+    },
+    {
+      "lesson": 369,
+      "ankiStart": 3681,
+      "ankiEnd": 3690
+    },
+    {
+      "lesson": 370,
+      "ankiStart": 3691,
+      "ankiEnd": 3700
+    },
+    {
+      "lesson": 371,
+      "ankiStart": 3701,
+      "ankiEnd": 3710
+    },
+    {
+      "lesson": 372,
+      "ankiStart": 3711,
+      "ankiEnd": 3720
+    },
+    {
+      "lesson": 373,
+      "ankiStart": 3721,
+      "ankiEnd": 3730
+    },
+    {
+      "lesson": 374,
+      "ankiStart": 3731,
+      "ankiEnd": 3740
+    },
+    {
+      "lesson": 375,
+      "ankiStart": 3741,
+      "ankiEnd": 3750
+    },
+    {
+      "lesson": 376,
+      "ankiStart": 3751,
+      "ankiEnd": 3760
+    },
+    {
+      "lesson": 377,
+      "ankiStart": 3761,
+      "ankiEnd": 3770
+    },
+    {
+      "lesson": 378,
+      "ankiStart": 3771,
+      "ankiEnd": 3780
+    },
+    {
+      "lesson": 379,
+      "ankiStart": 3781,
+      "ankiEnd": 3790
+    },
+    {
+      "lesson": 380,
+      "ankiStart": 3791,
+      "ankiEnd": 3800
+    },
+    {
+      "lesson": 381,
+      "ankiStart": 3801,
+      "ankiEnd": 3810
+    },
+    {
+      "lesson": 382,
+      "ankiStart": 3811,
+      "ankiEnd": 3820
+    },
+    {
+      "lesson": 383,
+      "ankiStart": 3821,
+      "ankiEnd": 3830
+    },
+    {
+      "lesson": 384,
+      "ankiStart": 3831,
+      "ankiEnd": 3840
+    },
+    {
+      "lesson": 385,
+      "ankiStart": 3841,
+      "ankiEnd": 3850
+    },
+    {
+      "lesson": 386,
+      "ankiStart": 3851,
+      "ankiEnd": 3860
+    },
+    {
+      "lesson": 387,
+      "ankiStart": 3861,
+      "ankiEnd": 3870
+    },
+    {
+      "lesson": 388,
+      "ankiStart": 3871,
+      "ankiEnd": 3880
+    },
+    {
+      "lesson": 389,
+      "ankiStart": 3881,
+      "ankiEnd": 3890
+    },
+    {
+      "lesson": 390,
+      "ankiStart": 3891,
+      "ankiEnd": 3900
+    },
+    {
+      "lesson": 391,
+      "ankiStart": 3901,
+      "ankiEnd": 3910
+    },
+    {
+      "lesson": 392,
+      "ankiStart": 3911,
+      "ankiEnd": 3920
+    },
+    {
+      "lesson": 393,
+      "ankiStart": 3921,
+      "ankiEnd": 3930
+    },
+    {
+      "lesson": 394,
+      "ankiStart": 3931,
+      "ankiEnd": 3940
+    },
+    {
+      "lesson": 395,
+      "ankiStart": 3941,
+      "ankiEnd": 3950
+    },
+    {
+      "lesson": 396,
+      "ankiStart": 3951,
+      "ankiEnd": 3960
+    },
+    {
+      "lesson": 397,
+      "ankiStart": 3961,
+      "ankiEnd": 3970
+    },
+    {
+      "lesson": 398,
+      "ankiStart": 3971,
+      "ankiEnd": 3980
+    },
+    {
+      "lesson": 399,
+      "ankiStart": 3981,
+      "ankiEnd": 3990
+    },
+    {
+      "lesson": 400,
+      "ankiStart": 3991,
+      "ankiEnd": 4000
+    },
+    {
+      "lesson": 401,
+      "ankiStart": 4001,
+      "ankiEnd": 4010
+    },
+    {
+      "lesson": 402,
+      "ankiStart": 4011,
+      "ankiEnd": 4020
+    },
+    {
+      "lesson": 403,
+      "ankiStart": 4021,
+      "ankiEnd": 4030
+    },
+    {
+      "lesson": 404,
+      "ankiStart": 4031,
+      "ankiEnd": 4040
+    },
+    {
+      "lesson": 405,
+      "ankiStart": 4041,
+      "ankiEnd": 4050
+    },
+    {
+      "lesson": 406,
+      "ankiStart": 4051,
+      "ankiEnd": 4060
+    },
+    {
+      "lesson": 407,
+      "ankiStart": 4061,
+      "ankiEnd": 4070
+    },
+    {
+      "lesson": 408,
+      "ankiStart": 4071,
+      "ankiEnd": 4080
+    },
+    {
+      "lesson": 409,
+      "ankiStart": 4081,
+      "ankiEnd": 4090
+    },
+    {
+      "lesson": 410,
+      "ankiStart": 4091,
+      "ankiEnd": 4100
+    },
+    {
+      "lesson": 411,
+      "ankiStart": 4101,
+      "ankiEnd": 4110
+    },
+    {
+      "lesson": 412,
+      "ankiStart": 4111,
+      "ankiEnd": 4120
+    },
+    {
+      "lesson": 413,
+      "ankiStart": 4121,
+      "ankiEnd": 4130
+    },
+    {
+      "lesson": 414,
+      "ankiStart": 4131,
+      "ankiEnd": 4140
+    },
+    {
+      "lesson": 415,
+      "ankiStart": 4141,
+      "ankiEnd": 4150
+    },
+    {
+      "lesson": 416,
+      "ankiStart": 4151,
+      "ankiEnd": 4160
+    },
+    {
+      "lesson": 417,
+      "ankiStart": 4161,
+      "ankiEnd": 4170
+    },
+    {
+      "lesson": 418,
+      "ankiStart": 4171,
+      "ankiEnd": 4180
+    },
+    {
+      "lesson": 419,
+      "ankiStart": 4181,
+      "ankiEnd": 4190
+    },
+    {
+      "lesson": 420,
+      "ankiStart": 4191,
+      "ankiEnd": 4200
+    },
+    {
+      "lesson": 421,
+      "ankiStart": 4201,
+      "ankiEnd": 4210
+    },
+    {
+      "lesson": 422,
+      "ankiStart": 4211,
+      "ankiEnd": 4220
+    },
+    {
+      "lesson": 423,
+      "ankiStart": 4221,
+      "ankiEnd": 4230
+    },
+    {
+      "lesson": 424,
+      "ankiStart": 4231,
+      "ankiEnd": 4240
+    },
+    {
+      "lesson": 425,
+      "ankiStart": 4241,
+      "ankiEnd": 4250
+    },
+    {
+      "lesson": 426,
+      "ankiStart": 4251,
+      "ankiEnd": 4260
+    },
+    {
+      "lesson": 427,
+      "ankiStart": 4261,
+      "ankiEnd": 4270
+    },
+    {
+      "lesson": 428,
+      "ankiStart": 4271,
+      "ankiEnd": 4280
+    },
+    {
+      "lesson": 429,
+      "ankiStart": 4281,
+      "ankiEnd": 4290
+    },
+    {
+      "lesson": 430,
+      "ankiStart": 4291,
+      "ankiEnd": 4300
+    },
+    {
+      "lesson": 431,
+      "ankiStart": 4301,
+      "ankiEnd": 4310
+    },
+    {
+      "lesson": 432,
+      "ankiStart": 4311,
+      "ankiEnd": 4320
+    },
+    {
+      "lesson": 433,
+      "ankiStart": 4321,
+      "ankiEnd": 4330
+    },
+    {
+      "lesson": 434,
+      "ankiStart": 4331,
+      "ankiEnd": 4340
+    },
+    {
+      "lesson": 435,
+      "ankiStart": 4341,
+      "ankiEnd": 4350
+    },
+    {
+      "lesson": 436,
+      "ankiStart": 4351,
+      "ankiEnd": 4360
+    },
+    {
+      "lesson": 437,
+      "ankiStart": 4361,
+      "ankiEnd": 4370
+    },
+    {
+      "lesson": 438,
+      "ankiStart": 4371,
+      "ankiEnd": 4380
+    },
+    {
+      "lesson": 439,
+      "ankiStart": 4381,
+      "ankiEnd": 4390
+    },
+    {
+      "lesson": 440,
+      "ankiStart": 4391,
+      "ankiEnd": 4400
+    },
+    {
+      "lesson": 441,
+      "ankiStart": 4401,
+      "ankiEnd": 4410
+    },
+    {
+      "lesson": 442,
+      "ankiStart": 4411,
+      "ankiEnd": 4420
+    },
+    {
+      "lesson": 443,
+      "ankiStart": 4421,
+      "ankiEnd": 4430
+    },
+    {
+      "lesson": 444,
+      "ankiStart": 4431,
+      "ankiEnd": 4440
+    },
+    {
+      "lesson": 445,
+      "ankiStart": 4441,
+      "ankiEnd": 4450
+    },
+    {
+      "lesson": 446,
+      "ankiStart": 4451,
+      "ankiEnd": 4460
+    },
+    {
+      "lesson": 447,
+      "ankiStart": 4461,
+      "ankiEnd": 4470
+    },
+    {
+      "lesson": 448,
+      "ankiStart": 4471,
+      "ankiEnd": 4480
+    },
+    {
+      "lesson": 449,
+      "ankiStart": 4481,
+      "ankiEnd": 4490
+    },
+    {
+      "lesson": 450,
+      "ankiStart": 4491,
+      "ankiEnd": 4500
+    },
+    {
+      "lesson": 451,
+      "ankiStart": 4501,
+      "ankiEnd": 4510
+    },
+    {
+      "lesson": 452,
+      "ankiStart": 4511,
+      "ankiEnd": 4520
+    },
+    {
+      "lesson": 453,
+      "ankiStart": 4521,
+      "ankiEnd": 4530
+    },
+    {
+      "lesson": 454,
+      "ankiStart": 4531,
+      "ankiEnd": 4540
+    },
+    {
+      "lesson": 455,
+      "ankiStart": 4541,
+      "ankiEnd": 4550
+    },
+    {
+      "lesson": 456,
+      "ankiStart": 4551,
+      "ankiEnd": 4560
+    },
+    {
+      "lesson": 457,
+      "ankiStart": 4561,
+      "ankiEnd": 4570
+    },
+    {
+      "lesson": 458,
+      "ankiStart": 4571,
+      "ankiEnd": 4580
+    },
+    {
+      "lesson": 459,
+      "ankiStart": 4581,
+      "ankiEnd": 4590
+    },
+    {
+      "lesson": 460,
+      "ankiStart": 4591,
+      "ankiEnd": 4600
+    },
+    {
+      "lesson": 461,
+      "ankiStart": 4601,
+      "ankiEnd": 4610
+    },
+    {
+      "lesson": 462,
+      "ankiStart": 4611,
+      "ankiEnd": 4620
+    },
+    {
+      "lesson": 463,
+      "ankiStart": 4621,
+      "ankiEnd": 4630
+    },
+    {
+      "lesson": 464,
+      "ankiStart": 4631,
+      "ankiEnd": 4640
+    },
+    {
+      "lesson": 465,
+      "ankiStart": 4641,
+      "ankiEnd": 4650
+    },
+    {
+      "lesson": 466,
+      "ankiStart": 4651,
+      "ankiEnd": 4660
+    },
+    {
+      "lesson": 467,
+      "ankiStart": 4661,
+      "ankiEnd": 4670
+    },
+    {
+      "lesson": 468,
+      "ankiStart": 4671,
+      "ankiEnd": 4680
+    },
+    {
+      "lesson": 469,
+      "ankiStart": 4681,
+      "ankiEnd": 4690
+    },
+    {
+      "lesson": 470,
+      "ankiStart": 4691,
+      "ankiEnd": 4700
+    },
+    {
+      "lesson": 471,
+      "ankiStart": 4701,
+      "ankiEnd": 4710
+    },
+    {
+      "lesson": 472,
+      "ankiStart": 4711,
+      "ankiEnd": 4720
+    },
+    {
+      "lesson": 473,
+      "ankiStart": 4721,
+      "ankiEnd": 4730
+    },
+    {
+      "lesson": 474,
+      "ankiStart": 4731,
+      "ankiEnd": 4740
+    },
+    {
+      "lesson": 475,
+      "ankiStart": 4741,
+      "ankiEnd": 4750
+    },
+    {
+      "lesson": 476,
+      "ankiStart": 4751,
+      "ankiEnd": 4760
+    },
+    {
+      "lesson": 477,
+      "ankiStart": 4761,
+      "ankiEnd": 4770
+    },
+    {
+      "lesson": 478,
+      "ankiStart": 4771,
+      "ankiEnd": 4780
+    },
+    {
+      "lesson": 479,
+      "ankiStart": 4781,
+      "ankiEnd": 4790
+    },
+    {
+      "lesson": 480,
+      "ankiStart": 4791,
+      "ankiEnd": 4800
+    },
+    {
+      "lesson": 481,
+      "ankiStart": 4801,
+      "ankiEnd": 4810
+    },
+    {
+      "lesson": 482,
+      "ankiStart": 4811,
+      "ankiEnd": 4820
+    },
+    {
+      "lesson": 483,
+      "ankiStart": 4821,
+      "ankiEnd": 4830
+    },
+    {
+      "lesson": 484,
+      "ankiStart": 4831,
+      "ankiEnd": 4840
+    },
+    {
+      "lesson": 485,
+      "ankiStart": 4841,
+      "ankiEnd": 4850
+    },
+    {
+      "lesson": 486,
+      "ankiStart": 4851,
+      "ankiEnd": 4860
+    },
+    {
+      "lesson": 487,
+      "ankiStart": 4861,
+      "ankiEnd": 4870
+    },
+    {
+      "lesson": 488,
+      "ankiStart": 4871,
+      "ankiEnd": 4880
+    },
+    {
+      "lesson": 489,
+      "ankiStart": 4881,
+      "ankiEnd": 4890
+    },
+    {
+      "lesson": 490,
+      "ankiStart": 4891,
+      "ankiEnd": 4900
+    },
+    {
+      "lesson": 491,
+      "ankiStart": 4901,
+      "ankiEnd": 4910
+    },
+    {
+      "lesson": 492,
+      "ankiStart": 4911,
+      "ankiEnd": 4920
+    },
+    {
+      "lesson": 493,
+      "ankiStart": 4921,
+      "ankiEnd": 4930
+    },
+    {
+      "lesson": 494,
+      "ankiStart": 4931,
+      "ankiEnd": 4940
+    },
+    {
+      "lesson": 495,
+      "ankiStart": 4941,
+      "ankiEnd": 4950
+    },
+    {
+      "lesson": 496,
+      "ankiStart": 4951,
+      "ankiEnd": 4960
+    },
+    {
+      "lesson": 497,
+      "ankiStart": 4961,
+      "ankiEnd": 4970
+    },
+    {
+      "lesson": 498,
+      "ankiStart": 4971,
+      "ankiEnd": 4980
+    },
+    {
+      "lesson": 499,
+      "ankiStart": 4981,
+      "ankiEnd": 4990
+    },
+    {
+      "lesson": 500,
+      "ankiStart": 4991,
+      "ankiEnd": 5000
+    }
+  ]
+}
