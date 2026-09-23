@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'; manifest-src 'self'; worker-src 'self'">
+  <meta name="theme-color" content="#0e1116">
+  <meta name="description" content="ManuLLern — бесплатный приватный помощник для изучения немецкого. Офлайн, без аккаунта и без отправки учебных данных.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>ManuLLern</title>
+</head>
+<body>
+  <header class="topbar">
+    <button id="homeBtn" class="icon-btn" aria-label="Главная">←</button>
+    <div class="brand-mini">
+      <img src="assets/icon-192.png" alt="">
+      <strong>ManuLLern</strong>
+    </div>
+    <button id="settingsBtn" class="icon-btn" aria-label="Настройки">☰</button>
+  </header>
+
+  <main id="app" class="app"></main>
+
+  <template id="homeTemplate">
+    <section class="hero">
+      <img class="hero-manul" src="assets/manul-hero.jpg" alt="Манул — символ ManuLLern">
+      <div>
+        <h1>ManuLLern</h1>
+        <p class="lead">Немецкий без лишнего: <strong>слушай → читай → понимай → отвечай.</strong></p>
+        <p class="muted">Бесплатно · приватно · офлайн после установки</p>
+      </div>
+    </section>
+
+    <section class="panel compact">
+      <p><strong>RU:</strong> бесплатный и приватный помощник для немецкого: тексты, аудирование и диалоги. Без аккаунта и без отправки учебных данных.</p>
+      <p><strong>DE:</strong> kostenloser und datenschutzfreundlicher Begleiter zum Deutschlernen: Texte, Hörverstehen und Dialoge. Ohne Konto und ohne Übertragung deiner Lerndaten.</p>
+    </section>
+
+    <section class="section-head">
+      <div>
+        <h2>Уроки</h2>
+        <p class="muted">Синхронно с колодой Deutsch 5000: 10 новых слов → 1 урок.</p>
+      </div>
+      <span id="offlineBadge" class="badge"></span>
+    </section>
+
+    <div id="lessonList"></div>
+  </template>
+
+  <template id="settingsTemplate">
+    <section>
+      <h1>Настройки и данные</h1>
+      <p class="muted">Никаких аккаунтов, рекламы и аналитики.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Установка</h2>
+      <p>После установки ManuLLern запускается с иконки и основной курс доступен офлайн.</p>
+      <button id="installBtn" class="primary">Установить ManuLLern</button>
+      <p id="installHint" class="muted small"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Anki</h2>
+      <p>ManuLLern не дублирует Anki. Сначала учишь 10 слов в колоде, затем проходишь соответствующий урок.</p>
+      <a class="button-link" href="downloads/Deutsch_5000_MAX_FULL.apkg" download>Скачать Deutsch 5000 (.apkg)</a>
+    </section>
+
+    <section class="panel">
+      <h2>Приватность</h2>
+      <ul class="clean-list">
+        <li>Ответы не отправляются на сервер.</li>
+        <li>Текст твоих ответов вообще не сохраняется после закрытия/сброса урока.</li>
+        <li>Локально хранится только прогресс: какие уроки проходил и сколько раз.</li>
+        <li>Озвучивание использует TTS самого устройства; для максимальной приватности скачай немецкий офлайн-голос.</li>
+      </ul>
+      <a class="text-link" href="docs/PRIVACY.md">Техническое описание приватности</a>
+    </section>
+
+    <section class="panel">
+      <h2>Резервная копия прогресса</h2>
+      <div class="button-row">
+        <button id="exportProgressBtn">Экспорт прогресса</button>
+        <label class="file-btn">Импорт прогресса<input id="importProgressInput" type="file" accept=".json,application/json"></label>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Новые уроки</h2>
+      <p>После 500-го урока курс можно продолжать пакетами. Пакет импортируется локально и не требует сервера.</p>
+      <label class="file-btn primary">Импортировать пакет уроков<input id="importPackInput" type="file" accept=".json,application/json"></label>
+      <div id="packInfo" class="muted small"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Проект</h2>
+      <p><strong>ManuLLern Project · 2026</strong></p>
+      <p class="muted">Код открыт. Учебные материалы бесплатны для личного и некоммерческого использования с сохранением авторства проекта.</p>
+    </section>
+  </template>
+
+  <template id="lessonTemplate">
+    <section id="lessonHead"></section>
+
+    <section class="panel micro-panel">
+      <span class="eyebrow">Как сказать сегодня</span>
+      <div id="microPattern" class="pattern"></div>
+      <div id="microExamples"></div>
+      <p id="microNote" class="muted"></p>
+    </section>
+
+    <section class="section-head">
+      <div>
+        <h2>1. Сначала на слух</h2>
+        <p class="muted">Скрой текст и попробуй понять общий смысл.</p>
+      </div>
+    </section>
+    <div class="button-row">
+      <button id="listenModeBtn">👂 Скрыть текст</button>
+      <button id="speakTextBtn">🔊 Весь текст</button>
+    </div>
+
+    <section class="section-head">
+      <div>
+        <h2>2. Текст</h2>
+        <p class="muted">Нажми на предложение — увидишь перевод. Ещё раз — немецкий.</p>
+      </div>
+      <button id="toggleAllTranslationBtn" class="small-btn">Весь перевод</button>
+    </section>
+    <div id="textBlock"></div>
+
+    <details class="panel words-panel">
+      <summary>10 слов Anki этого урока</summary>
+      <div id="wordList" class="word-grid"></div>
+    </details>
+
+    <section class="section-head">
+      <div>
+        <h2>3. Понимание</h2>
+        <p class="muted">Ответ печатай сам. Можно использовать микрофон клавиатуры Android.</p>
+      </div>
+    </section>
+    <div id="questionBlock"></div>
+
+    <section class="section-head">
+      <div>
+        <h2>4. Диалог</h2>
+        <p class="muted">Сначала можно прослушать целиком, потом открыть отдельные реплики и перевод.</p>
+      </div>
+      <button id="speakDialogueBtn" class="small-btn">🔊 Весь диалог</button>
+    </section>
+    <div id="dialogueBlock"></div>
+
+    <section class="panel">
+      <span class="eyebrow">Фразы, которые стоит унести с собой</span>
+      <div id="phraseBlock"></div>
+    </section>
+
+    <section class="finish-panel">
+      <button id="completeLessonBtn" class="primary wide">Урок пройден</button>
+      <button id="restartLessonBtn" class="wide">↻ Пройти ещё раз</button>
+      <p id="repeatInfo" class="muted small center"></p>
+    </section>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

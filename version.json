@@ -1,0 +1,15 @@
+{
+  "app": "ManuLLern",
+  "version": "0.1.1",
+  "formatVersion": 1,
+  "starterLessons": [
+    1,
+    10
+  ],
+  "ankiWords": [
+    1,
+    100
+  ],
+  "targetLessons": 500,
+  "targetWords": 5000
+}

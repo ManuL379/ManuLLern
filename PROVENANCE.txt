@@ -1,0 +1,19 @@
+MANULLERN PROJECT — PROVENANCE NOTE
+
+Project name: ManuLLern
+Public author identity: ManuLLern Project
+Initial source package version: 0.1.0
+Audited/hardened package version: 0.1.1
+Previous v0.1.0 archive SHA-256: 34416e2e26727f84c588836de730e95e410d6556992518a94347ec61d168ee1f
+Year: 2026
+
+Purpose:
+This file is part of the original source archive retained by the project creator.
+Keep the original archive and its SHA-256 hash in a separate private location.
+Git history and dated public releases can provide additional provenance evidence.
+
+Important:
+A file hash proves the exact bytes of a saved release. A public dated release/Git history
+provides stronger external evidence of when that version was published.
+
+No real personal name is required in the public interface of the project.
